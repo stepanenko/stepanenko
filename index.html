@@ -10,9 +10,8 @@
 </head>
 
 <body>
-  
+
   <div class="leftbar">
-    <img class="wiki" src="images/wiki.png">
     <ul>
       <li><a href="#">Main page</a></li>
       <li><a href="#">Contents</a></li>
@@ -24,12 +23,18 @@
     </ul>
   </div>
   <div class="main">
-      <div class="header">
-          <a href="#">Talk</a>
-          <a href="#">Contributions</a>
-          <a href="#">Create account</a>
-          <a href="#">Log in</a>
-        </div>
+        <ul class="menu">
+          <li><a href="#">To learn</a>
+            <ul class="submenu">
+              <li><a href="#">Firebase</a></li>
+              <li><a href="#">Github</a></li>
+              <li><a href="http://htmlbook.ru/css/display">CSS Display</a></li>
+            </ul>
+          </li>
+        <li><a href="#">Contributions</a></li>
+        <li><a href="#">Create account</a></li>
+        <li><a href="#">Log in</a></li>
+      </ul>
     <div class="tabs">
         <a href="#">Main page</a>
         <a href="#">Talk</a>
@@ -58,55 +63,40 @@
       </div>
     </div>
     <div class="mainleft fs1">
-      <p class="pgreen">From today's featured article</p>
+      <p class="pgreen"><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages">How do I use GitHub Pages?</a></p>
       <div class="article">
         <article>
-        Maurice Wilder-Neligan (1882–1923) was a British-born Australian soldier who commanded the 10th 
-        Battalion during the latter stages of World War I. Emigrating to Australia before the war, he enlisted 
-        in the Australian Imperial Force. He was decorated for bravery and commissioned during the Gallipoli 
-        Campaign of 1915. He received a severe head wound while leading a successful raid on German trenches 
-        near Fleurbaix, France, in early 1916, earning a second decoration for gallantry and the praise of war 
-        historians. In July 1917 he was promoted to lieutenant colonel and received command of the battalion. 
-        He led it during the Battle of the Menin Road Ridge in September and was made a Companion of the Order 
-        of St Michael and St George in June 1918. He was again decorated for courage for the capture of the 
-        commune of Merris on 29 July. After the war, he worked as a district officer in the Territory of 
-        New Guinea, where he died at the age of 40, probably of complications from his war wounds.
+Point the command line to your test-site directory (or whatever you called the directory containing your website). For this, use the cd command (i.e. "change directory"). Here's what you'd type if you've put your website in a directory called test-site on your desktop: <br>
+cd Desktop/test-site <br>
+When the command line is pointing inside your website directory, type the following command, which tells the git tool to turn the directory into a git repository: <br>
+git init
+
         </article>
       </div>
-      <p class="pgreen">Did you know...</p>
+      <p class="pgreen"><a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control">Getting Started - About Version Control</a></p>
       <div class="article">
         <article>
-          ... that Enoch zu Guttenberg (pictured) conducted Verdi's Requiem in a concert in Rome for Pope Benedict XVI?<br>
-          ... that Marvel Comics published a solo comic book about the teenager Jean Grey from the time-displaced X-Men?<br>
-          ... that Jean-François Bony designed fabrics for the rulers of France before, during, and after the French Revolution?<br>
-          ... that Stanwood station was once served by the "Dinky", claimed by local residents to be the world's shortest steam railway?<br>
-          ... that after Shane Filan's demo for "Beautiful in White" was leaked in 2010, it became a popular wedding song in Asia?<br>
-          ... that the fatal shooting of her son inspired Lucy McBath to advocate for gun control and ultimately run for the United States Congress?<br>
-          ... that the copepod Metridia longa cannibalizes up to 85% of its eggs?<br>
-          ... that footballer Eddie Jenkins turned down a move to Tottenham Hotspur because he thought that "there were better prospects in the milk business"?
+          This chapter will be about getting started with Git. We will begin by explaining some background on version control tools, then move on to how to get Git running on your system and finally how to get it set up to start working with. At the end of this chapter you should understand why Git is around, why you should use it and you should be all set up to do so.
+
+About Version Control
+What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
+
+If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a VCS also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
         </article>
       </div>
     </div>
     <div class="mainright fs1">
-        <p class="pblue">In the news</p>
+        <p class="pblue"><a href="https://stackblitz.com/">StackBlitz</a></p>
         <div class="article">
-          <ul>
-            <li>Scientists announce the discovery of a 20-kilometre-wide (12 mi) sub-surface lake of water (location pictured) on Mars.</li>
-            <li>A heat wave in Japan leaves 80 people dead, with more than 22,000 others requiring hospitalization.</li>
-            <li>At least 80 people are killed and more than 100 others injured in wildfires in the Greek tourist resort of Mati.</li>
-            <li>In the Syrian Civil War, an army offensive captures all opposition-held regions in the south of the country.</li>
-            <li>A hydroelectric dam under construction in south-eastern Laos collapses, resulting in extensive damage and leaving more than 6,000 people displaced.</li>
-          </ul>
+          The online IDE for web applications.
+          Powered by Visual Studio Code.
         </div>
-        <p class="pblue">On this day</p>
+        <p class="pblue"><a href="https://angular.io/docs">What is Angular?</a></p>
         <div class="article">
-          <ul>
-            <li>1148 – The Siege of Damascus ended in a decisive victory for the Muslims, leading to the disintegration of the Second Crusade.</li>
-            <li>1818 – French physicist Augustin Fresnel (pictured) submitted his "Memoir on the Diffraction of Light", providing strong support for the wave theory of light.</li>
-            <li>1914 – The first shots of World War I were fired by the Austro-Hungarian river monitor SMS Bodrog upon Serbian defences near Belgrade.</li>
-            <li>1958 – U.S. President Dwight D. Eisenhower signed the National Aeronautics and Space Act into law, establishing a new federal non-military space agency known as NASA.</li>
-            <li>1981 – An estimated worldwide television audience of 750 million people watched the wedding of Prince Charles and Lady Diana Spencer at St Paul's Cathedral in London.</li>
-          </ul>
+          Angular is a platform that makes it easy to build applications with the web. Angular combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges. Angular empowers developers to build applications that live on the web, mobile, or the desktop <br><br>
+          Assumptions <br>
+This documentation assumes that you are already familiar with JavaScript, and some of the tools from the latest standards such as classes and modules. The code samples are written using TypeScript. Most Angular code can be written with just the latest JavaScript, using types for dependency injection, and using decorators for metadata.<br><br>
+<a href="https://angular.io/guide/quickstart">QuickStart</a>
         </div>
     </div>
   </div>
