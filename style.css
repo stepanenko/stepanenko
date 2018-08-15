@@ -118,33 +118,3 @@ div.wtw>p {
   margin-right: 3px;
 
 }
-.menu li {
-  display: inline-block;
-  float: right;
-  margin-left: 3px;
-}
-.menu a {
-  display: block;
-  width: 100px;
-  padding: 10px;
-  text-align: center;
-  background: silver;
-  margin-bottom: 3px;
-}
-.submenu {
-  position: absolute;
-  right: 20px;
-}
-.submenu li {
-  display: none;
-}
-.menu a:hover {
-  background: grey;
-  color: snow;
-}
-.menu li:hover .submenu li {
-  display: block;
-}
-.menu {
-  padding-left: 0;
-}
