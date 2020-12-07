@@ -1,4 +1,4 @@
 
-## [Max Deno First Look](https://www.youtube.com/watch?v=3Vl8a3zYjiw)
+## [Redux](https://www.youtube.com/watch?v=poQXNp9ItL4)
 
-Progress: **10%**
+Progress: **00:38:17**
