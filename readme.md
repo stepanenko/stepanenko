@@ -1,8 +1,8 @@
 
 # [Redux](https://www.youtube.com/watch?v=poQXNp9ItL4)
 
-Progress: **00:58:00**
+In progress: **0h 58m / 6h 5m**
 
 ## [Advanced React Redux Performance](https://www.youtube.com/watch?v=7pO3563Qi1Y)
 
-Done 00:20:44 - [**Code**](https://github.com/joshribakoff/redux-10000-todos)
+**Done:** 20m - [**Code**](https://github.com/joshribakoff/redux-10000-todos)
