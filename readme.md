@@ -1,7 +1,7 @@
 
 # [Redux](https://coursehunter.net/course/prodvinutyy-redux-codewithmosh)
 
-**Progress** - 33 / 105, Total - **6h 5m**
+**Progress** - 41 / 105, Total - **6h 5m**
 
 ## [Advanced React Redux Performance](https://www.youtube.com/watch?v=7pO3563Qi1Y)
 
