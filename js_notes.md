@@ -7,3 +7,5 @@ In FP side effects include:
 - Throwing errors
 - Mutating the DOM
 - Mutating objects or arrays passed in as arguments
+
+Source: https://ericelliottjs.com/premium-content/lesson-pure-functions
