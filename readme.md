@@ -5,7 +5,7 @@
 
 ## [Mastering React](https://coursehunters.net/course/mastering-react-mosh-hamedani)
 
-**Progress** - 159 / 214, Total - **13h 17m**
+**Progress** - 160 / 214, Total - **13h 17m**
 
 ### [Advanced React Redux Performance](https://www.youtube.com/watch?v=7pO3563Qi1Y)
 
