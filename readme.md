@@ -11,4 +11,7 @@
 
 **Done** - [**Code**](https://github.com/joshribakoff/redux-10000-todos)
 
-Your code isn’t the product of your self expression any more than a painter’s paintbrush is the product of their self expression. Code is the tool. The program is the product.
+> _Your code isn’t the product of your self expression any more than a painter’s paintbrush is the product of their self expression.
+Code is the tool. The program is the product._
+
+> _The code is a black box, and what users enjoy is the program._
