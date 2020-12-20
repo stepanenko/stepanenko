@@ -8,8 +8,6 @@
 - Mutating the DOM
 - Mutating objects or arrays passed in as arguments
 
-Source: https://ericelliottjs.com/premium-content/lesson-pure-functions
-
 #### Not pure example:
 ```
 const addToCart = (cart, item, quantity) => {
@@ -49,3 +47,5 @@ console.log(
 In this example, we have an array nested in an object. For complex state like this, I sometimes reach for tools like **Immer** to simplify pure functions.
 
 **Redux** lets you compose reducers rather than deal with the entire app state inside each reducer. The result is that you don’t have to create a deep clone of the entire app state every time you want to update just a small part of it. Instead, you can use non-destructive array methods, or `Object.assign()` to update a small part of the app state.
+
+Source: https://ericelliottjs.com/premium-content/lesson-pure-functions
