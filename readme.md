@@ -7,6 +7,10 @@
 
 **Progress** - 160 / 214, Total - **13h 17m**
 
+## [Epic React](https://coursehunter.net/course/epicheskiy-react)
+
+**Progress** - 40 / 363, Total - **27h 57m**
+
 ### [Advanced React Redux Performance](https://www.youtube.com/watch?v=7pO3563Qi1Y)
 
 **Done** - [**Code**](https://github.com/joshribakoff/redux-10000-todos)
