@@ -22,9 +22,19 @@ you can earn 2x — 3x more if you master the right skills early in your career.
 - [Learn current syntax](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
 
 - [Learn to compose software](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
+
+All software development is composition: The act of breaking down big, complex problems into lots of smaller, easier-to-solve problems, and then composing those solutions to form the application. That’s why building blocks like functions, modules, objects, and classes exist: to compose.
+
 - [Learn functional programming basics](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-- [Learn how to work with objects]()
+
+Functional programming’s focus on simple, composable building blocks and immutable state makes it an excellent fit for today’s web application architectures. It also tends to be more reusable, more flexible, and easier to refactor than procedural or object-heavy code. Almost all of JavaScript’s most popular libraries are functional, or inspired by functional approaches (e.g., React, Redux, Lodash, Ramda, RxJS, etc).
+
+- Learn how to work with objects
+
+OOP isn’t going away any time soon, and you don’t have to abandon OOP to program in a functional style. Objects and encapsulation will continue to have their place. Learn aggregation, delegation, concatenation, and encapsulation. Class inheritance has not been able to keep up with more modular code reuse patterns, such as module imports and simple functions. It’s best to favor compositional reuse patterns over class inheritance whenever possible. To get started, stop using the extends keyword and ask yourself if you can share and import functions from a module, instead.
+
 - [Learn how to work with asynchronous processes](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
-- [Learn standard developer tools]()
+
+If we want to avoid timing dependency problems, there are many approaches, and some are better than others. Tools like promises and async/await will help. It may also be a good idea to learn how to work with streaming tools such as RxJS.
 
 Soft skills matter. Empathetic developers write better software. They’re also easier to get along with because they’re conscious of the needs of the people around them, less self-centered, and less egotistical.
