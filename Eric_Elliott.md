@@ -45,4 +45,6 @@ Empathetic developers write better software. They’re also easier to get along 
 
 > As you strip constructors and classical inheritance out of JavaScript, it: Gets simpler. Gets more flexible. Gets more powerful & expressive
 
+> Software performance is not about how many features you complete or how much code you type. It’s about how much value you create.
+
 > [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
