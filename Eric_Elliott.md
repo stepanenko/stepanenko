@@ -37,7 +37,7 @@ OOP isn’t going away any time soon, and you don’t have to abandon OOP to pro
 
 If we want to avoid timing dependency problems, there are many approaches, and some are better than others. Tools like promises and async/await will help. It may also be a good idea to learn how to work with streaming tools such as RxJS.
 
-- Soft skills matter.
+- Soft skills
 
 Empathetic developers write better software. They’re also easier to get along with because they’re conscious of the needs of the people around them, less self-centered, and less egotistical.
 
