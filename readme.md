@@ -25,3 +25,5 @@ Code is the tool. The program is the product._
 > _1. Make it work. 2. Make it right. 3. Make it fast. --Kent Beck author of “Test Driven Development By Example”_
 
 > _If a feature is sometimes dangerous, and there is a better option, then always use the better option. --Douglas Crockford_
+
+> _Any scientist who couldn’t explain to an eight-year-old what he was doing was a charlatan._

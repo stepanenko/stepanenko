@@ -47,7 +47,29 @@ Empathetic developers write better software. They’re also easier to get along 
 
 > Software performance is not about how many features you complete or how much code you type. It’s about how much value you create.
 
-> If you want to learn something quickly, you can’t have your attention scattered everywhere except where you need it. Pick one language (start with JavaScript), one framework (start with React), one book, one course, one topic, etc. Whatever you pick, focus on that one thing until you have a sufficient mastery of it before you move on to something else.
+### Learning Tips:
+
+- If you want to learn something quickly, you can’t have your attention scattered everywhere except where you need it. Pick one language (start with JavaScript), one framework (start with React), one book, one course, one topic, etc. Whatever you pick, focus on that one thing until you have a sufficient mastery of it before you move on to something else.
+
+- Many of the most useful insights available to software developers come from books. There are lots of good YouTube videos and courses online, but books are the standard bearers of software development culture and knowledge.
+
+- If you read something interesting that you want to remember, review it the next day. Test yourself. Then test yourself again the day after. And the day after. Do that 4 days in a row, and your long-term memory increase dramatically.
+
+- Some people learn best by reading, others by watching videos, but if you mix it up — watch a video, then do some reading, then practice with some interactive code sessions, you’ll repeat the concepts from multiple angles, and multiple examples.
+
+- Learning the concept doesn’t mean you’ll know how to use it in a real app. Once you’ve been coding with exercises for a few weeks, it’ll be time to build something of your own.
+
+- Value Principles Over Frameworks and Languages. Frameworks and APIs change fast. Software design principles are evergreen.
+
+### Coding Principles:
+
+- “A small change in requirements should lead to only a small change in implementation.” (Paraphrased from “A Practical Handbook for Software Development”)
+- Do One Thing (DOT) — Simplified from Doug McIlroy’s “Do One Thing and Do It Well (DOTADIW)” — a function should have one job. It should not fetch data AND process data AND draw to the screen. It should only fetch data. Or only process data. Or only draw to the screen. (Time to split your React components into smaller parts!)
+- “Program to an interface, not an implementation.” — Gang of Four, “Design Patterns”
+- “Favor object composition over class inheritance.” — Gang of Four, “Design Patterns”
+- Avoid shared mutable state.
+- “Premature optimization is the root of all evil.” ~ Donald Knuth
+- “You Aren’t Gonna Need It (YAGNI)” — Don’t write code for something that isn’t actually required, yet.
 
 ### Books:
 
