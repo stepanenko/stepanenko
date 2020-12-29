@@ -47,4 +47,9 @@ Empathetic developers write better software. They’re also easier to get along 
 
 > Software performance is not about how many features you complete or how much code you type. It’s about how much value you create.
 
-> [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
+> If you want to learn something quickly, you can’t have your attention scattered everywhere except where you need it. Pick one language (start with JavaScript), one framework (start with React), one book, one course, one topic, etc. Whatever you pick, focus on that one thing until you have a sufficient mastery of it before you move on to something else.
+
+### Books:
+
+[Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
+
