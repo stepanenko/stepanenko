@@ -64,11 +64,17 @@ Empathetic developers write better software. They’re also easier to get along 
 ### Coding Principles:
 
 - “A small change in requirements should lead to only a small change in implementation.” (Paraphrased from “A Practical Handbook for Software Development”)
+
 - Do One Thing (DOT) — Simplified from Doug McIlroy’s “Do One Thing and Do It Well (DOTADIW)” — a function should have one job. It should not fetch data AND process data AND draw to the screen. It should only fetch data. Or only process data. Or only draw to the screen. (Time to split your React components into smaller parts!)
+
 - “Program to an interface, not an implementation.” — Gang of Four, “Design Patterns”
+
 - “Favor object composition over class inheritance.” — Gang of Four, “Design Patterns”
+
 - Avoid shared mutable state.
+
 - “Premature optimization is the root of all evil.” ~ Donald Knuth
+
 - “You Aren’t Gonna Need It (YAGNI)” — Don’t write code for something that isn’t actually required, yet.
 
 ### Books:
