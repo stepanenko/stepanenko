@@ -22,7 +22,7 @@ Code is the tool. The program is the product._
 
 > _Keep It Stupid Simple (KISS). Pure functions are stupid simple in the best possible way. --Eric Elliott_
 
-> _Follow this when develop: 1. Make it work. 2. Make it right. 3. Make it fast. --Kent Beck author of “Test Driven Development By Example”_
+> _Follow these when develop: 1. Make it work. 2. Make it right. 3. Make it fast. --Kent Beck author of “Test Driven Development By Example”_
 
 > _If a feature is sometimes dangerous, and there is a better option, then always use the better option. --Douglas Crockford_
 
