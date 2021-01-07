@@ -11,6 +11,10 @@
 
 **Progress** - 40 / 363, Total - **27h 57m**
 
+## Learning React. 2nd Edition 2020 - Book
+
+**Progress** - page 60 / 310
+
 ### [Advanced React Redux Performance](https://www.youtube.com/watch?v=7pO3563Qi1Y)
 
 **Done** - [**Code**](https://github.com/joshribakoff/redux-10000-todos)
