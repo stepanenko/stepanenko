@@ -11,9 +11,9 @@
 
 **Progress** - 40 / 363, Total - **27h 57m**
 
-## Learning React. 2nd Edition 2020 - Book
+## [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book)
 
-**Progress** - page 60 / 310
+**Progress** - page 61 / 310
 
 ### [Advanced React Redux Performance](https://www.youtube.com/watch?v=7pO3563Qi1Y)
 
