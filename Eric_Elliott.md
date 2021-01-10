@@ -41,12 +41,6 @@ If we want to avoid timing dependency problems, there are many approaches, and s
 
 Empathetic developers write better software. They’re also easier to get along with because they’re conscious of the needs of the people around them, less self-centered, and less egotistical.
 
-### Quotes:
-
-> As you strip constructors and classical inheritance out of JavaScript, it: Gets simpler. Gets more flexible. Gets more powerful & expressive
-
-> Software performance is not about how many features you complete or how much code you type. It’s about how much value you create.
-
 ### Learning Tips:
 
 - If you want to learn something quickly, you can’t have your attention scattered everywhere except where you need it. Pick one language (start with JavaScript), one framework (start with React), one book, one course, one topic, etc. Whatever you pick, focus on that one thing until you have a sufficient mastery of it before you move on to something else.
