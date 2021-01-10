@@ -24,12 +24,6 @@ Code is the tool. The program is the product._
 
 > _The code is a black box, and what users enjoy is the program._
 
-> _Keep It Stupid Simple (KISS). Pure functions are stupid simple in the best possible way. --Eric Elliott_
-
-> _Follow these while developing smth new: 1. Make it work. 2. Make it right. 3. Make it fast. --Kent Beck author of “Test Driven Development By Example”_
-
-> _If a feature is sometimes dangerous, and there is a better option, then always use the better option. --Douglas Crockford_
-
-> _Any scientist who couldn’t explain to an eight-year-old what he was doing was a charlatan._
-
 > _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
+
+[More quotes...](https://github.com/stepanenko/stepanenko/edit/master/quotes.md)
