@@ -26,4 +26,4 @@ Code is the tool. The program is the product._
 
 > _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
 
-[More quotes...](https://github.com/stepanenko/stepanenko/edit/master/quotes.md)
+[More quotes...](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)
