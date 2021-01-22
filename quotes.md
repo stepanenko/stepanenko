@@ -9,4 +9,8 @@
 
 > If a feature is sometimes dangerous, and there is a better option, then always use the better option. --Douglas Crockford
 
-> Any scientist who couldn’t explain to an eight-year-old what he was doing was a charlatan
+> Any scientist who couldn’t explain to an eight-year-old what he was doing was a charlatan.
+
+> The code is a black box, and what users enjoy is the program.
+
+> Your code isn’t the product of your self expression any more than a painter’s paintbrush is the product of their self expression. Code is the tool. The program is the product.
