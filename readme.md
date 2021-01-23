@@ -9,7 +9,7 @@
 
 ## [Epic React](https://coursehunter.net/course/epicheskiy-react)
 
-**Progress** - 40 / 363, Total - **27h 57m**
+**Progress** - 43 / 363, Total - **27h 57m** [Hooks - Code](https://github.com/stepanenko/react-hooks-epic)
 
 ## [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book)
 
