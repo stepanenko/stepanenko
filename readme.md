@@ -25,6 +25,8 @@
 
 > _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
 
+> _A good API is not just easy to use but also hard to misuse._
+
 > _Don’t write code for something that isn’t actually required, yet. (You Aren’t Gonna Need It (YAGNI))_
 
 [[ More quotes... ]](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)
