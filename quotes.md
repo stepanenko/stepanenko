@@ -42,3 +42,29 @@
 > It's a lot easier to talk about code than it is to write code. --JOHN O'NOLAN
 
 > Don't have good ideas if you aren't willing to be responsible for them. --ALAN J. PERLIS
+
+> Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. --ALAN J. PERLIS
+
+> Treat your code like poetry and take it to the edge of the bare minimum. --ILYO
+
+> When in doubt, leave it out. --JOSHUA BLOCH
+
+> Simple doesn't mean stupid. Thinking that it does, does. --PAUL KRUGMAN
+
+> The secret to building large apps is never build large apps. Break your applications into small pieces. Then, assemble those testable, bite-sized pieces into your big application. --JUSTIN MEYER
+
+> The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. --MARIO FUSCO
+
+> Inside every large program, there is a small program trying to get out. --C. A. R. HOARE
+
+> everything simple is made too complicated because it's easy to fiddle with; everything complicated stays complicated because it's hard to fix. --ROB PIKE
+
+> The trick is to fix the problem you have, rather than the problem you want. --BRAM COHEN
+
+> The key to making programs fast is to make them do practically nothing. --MIKE HAERTEL
+
+> Constraints are advantages in disguise. Limited resources force you to make do with what you've got. There's no room for waste. And that forces you to be creative. --37SIGNALS
+
+> The function of good software is to make the complex appear to be simple. --GRADY BOOCH
+
+> It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much. --STEVE JOBS
