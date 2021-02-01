@@ -23,9 +23,13 @@
 
 > _Code is the tool. The program is the product._
 
+> _As a Lead JavaScript Engineer, I try to get my team to write as little JavaScript as possible._
+
 > _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
 
 > _A good API is not just easy to use but also hard to misuse._
+
+> _First do it, then do it right, then do it better._
 
 > _Don’t write code for something that isn’t actually required, yet. (You Aren’t Gonna Need It (YAGNI))_
 
