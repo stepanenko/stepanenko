@@ -19,6 +19,8 @@
 
 **Done** - [**Code**](https://github.com/joshribakoff/redux-10000-todos)
 
+> _Code is like humor. When you have to explain it, it’s bad._
+
 > _Code is the tool. The program is the product._
 
 > _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
