@@ -23,7 +23,7 @@
 
 > _Code is the tool. The program is the product._
 
-> _I hate code, and I want as little of it as possible in our product. --JACK DIEDERICH_
+> _I hate code, and I want as little of it as possible in our product._
 
 > _As a Lead JavaScript Engineer, I try to get my team to write as little JavaScript as possible._
 
@@ -31,7 +31,7 @@
 
 > _A good API is not just easy to use but also hard to misuse._
 
-> _First do it, then do it right, then do it better._
+> _First do it, then do it right, then do it better/faster._
 
 > _Don’t write code for something that isn’t actually required, yet. (You Aren’t Gonna Need It (YAGNI))_
 
