@@ -68,3 +68,19 @@
 > The function of good software is to make the complex appear to be simple. --GRADY BOOCH
 
 > It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much. --STEVE JOBS
+
+> A person without data is just another person with an opinion.
+
+> Get out of the way of your developers or lose them to someone who will. --ADRIAN COCKCROFT
+
+> Most managers may defend the schedule and requirements with passion; but that’s their job. It’s your job to defend the code with equal passion. --ROBERT C. MARTIN
+
+> You cannot manage that which you cannot measure. --JIM BARKSDALE
+
+> The first step of any project is to grossly underestimate its complexity and difficulty. --NICOLL HUNT
+
+> You won't get anything done by planning. --KARL PILKINGTON
+
+> Better train people and risk they leave — than do nothing and risk they stay.
+
+> Workaholics aren't heroes. They don't save the day, they just use it up. The real hero is one who figured out a faster way to get things done. --37SIGNALS
