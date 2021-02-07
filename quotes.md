@@ -84,3 +84,7 @@
 > Better train people and risk they leave — than do nothing and risk they stay.
 
 > Workaholics aren't heroes. They don't save the day, they just use it up. The real hero is one who figured out a faster way to get things done. --37SIGNALS
+
+> Programmers must avoid leaving false clues that obscure the meaning of code. --ROBERT C. MARTIN
+
+> Terrible code is not a good excuse to be mean, because terrible code is not well-correlated with having been written by terrible people. --GEEPAW HILL
