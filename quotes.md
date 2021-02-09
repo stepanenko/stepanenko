@@ -88,3 +88,7 @@
 > Programmers must avoid leaving false clues that obscure the meaning of code. --ROBERT C. MARTIN
 
 > Terrible code is not a good excuse to be mean, because terrible code is not well-correlated with having been written by terrible people. --GEEPAW HILL
+
+> Theory and practice sometimes clash. And when that happens, theory loses. Every single time. --LINUS TORVALDS
+
+> The most important property of a program is whether it accomplishes the intention of its user. --C. A. R. HOARE
