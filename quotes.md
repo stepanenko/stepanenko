@@ -92,3 +92,5 @@
 > Theory and practice sometimes clash. And when that happens, theory loses. Every single time. --LINUS TORVALDS
 
 > The most important property of a program is whether it accomplishes the intention of its user. --C. A. R. HOARE
+
+> Another effective technique is to explain your code to someone else. This will often cause you to explain the bug to yourself. Sometimes it takes no more than a few sentences, followed by an embarrassed “Never mind, I see what's wrong. Sorry to bother you.” This works remarkably well; you can even use non-programmers as listeners. One university computer center kept a teddy bear near the help desk. Students with mysterious bugs were required to explain them to the bear before they could speak to a human counselor. --BRIAN W. KERNIGHAN and ROB PIKE
