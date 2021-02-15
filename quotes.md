@@ -98,3 +98,7 @@
 > Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it... --DAN ARIELY
 
 > Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet. --MICHAEL A. JACKSON
+
+> Things that are impossible just take longer. --IAN HICKSON
+
+> Most of the biggest problems in software are problems of misconception. --RICH HICKEY
