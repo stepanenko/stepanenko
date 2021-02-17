@@ -102,3 +102,6 @@
 > Things that are impossible just take longer. --IAN HICKSON
 
 > Most of the biggest problems in software are problems of misconception. --RICH HICKEY
+
+> Machines should work. People should think. --IBM POLLYANNA PRINCIPLE
+
