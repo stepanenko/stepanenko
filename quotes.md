@@ -105,3 +105,6 @@
 
 > Machines should work. People should think. --IBM POLLYANNA PRINCIPLE
 
+> The older I get, the more I believe that the only way to become a better programmer is by not programming. --JEFF ATWOOD
+
+> Hardware: the parts of a computer system that can be kicked. --JEFF PESIS
