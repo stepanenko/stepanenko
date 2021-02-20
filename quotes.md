@@ -108,3 +108,7 @@
 > The older I get, the more I believe that the only way to become a better programmer is by not programming. --JEFF ATWOOD
 
 > Hardware: the parts of a computer system that can be kicked. --JEFF PESIS
+
+> It's better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive. --STEVE MCCONNELL
+
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. --MARTIN FOWLER
