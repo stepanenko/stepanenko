@@ -116,3 +116,5 @@
 > Great software requires a fanatical devotion to beauty. If you look inside good software, you find that parts no one is ever supposed to see are beautiful too. --PAUL GRAHAM
 
 > Good programming is good writing. --JOHN SHORE
+
+> Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We’re not excited by incremental renovation: tinkering, improving, planting flower beds. --JOEL SPOLSKY
