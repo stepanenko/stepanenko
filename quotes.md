@@ -118,3 +118,5 @@
 > Good programming is good writing. --JOHN SHORE
 
 > Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We’re not excited by incremental renovation: tinkering, improving, planting flower beds. --JOEL SPOLSKY
+
+> When debugging, novices insert corrective code; experts remove defective code. --RICHARD PATTIS
