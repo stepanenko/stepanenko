@@ -120,3 +120,7 @@
 > Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We’re not excited by incremental renovation: tinkering, improving, planting flower beds. --JOEL SPOLSKY
 
 > When debugging, novices insert corrective code; experts remove defective code. --RICHARD PATTIS
+
+> That’s what’s cool about working with computers. They don’t argue, they remember everything, and they don’t drink all your beer. --PAUL LEARY
+
+> The secret to building large apps is never build large apps. Break your applications into small pieces. Then, assemble those testable, bite-sized pieces into your big application. --JUSTIN MEYER
