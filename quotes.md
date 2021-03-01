@@ -124,3 +124,5 @@
 > That’s what’s cool about working with computers. They don’t argue, they remember everything, and they don’t drink all your beer. --PAUL LEARY
 
 > The secret to building large apps is never build large apps. Break your applications into small pieces. Then, assemble those testable, bite-sized pieces into your big application. --JUSTIN MEYER
+
+> A design is “simple” if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods. --KENT BECK
