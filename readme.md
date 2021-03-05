@@ -21,10 +21,6 @@
 
 > _Code is like humor. When you have to explain it, it’s bad._
 
-> _Code is the tool. The program is the product._
-
-> _I hate code, and I want as little of it as possible in our product._
-
 > _As a Lead JavaScript Engineer, I try to get my team to write as little JavaScript as possible._
 
 > _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
