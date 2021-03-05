@@ -1,6 +1,10 @@
 
 ## _Quotes_
 
+> _Code is the tool. The program is the product._
+
+> _I hate code, and I want as little of it as possible in our product._
+
 > As you strip constructors and classical inheritance out of JavaScript it: gets simpler, more flexible, more powerful and expressive
 
 > Keep It Stupid Simple (KISS). Pure functions are stupid simple in the best possible way. --Eric Elliott
