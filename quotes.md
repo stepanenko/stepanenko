@@ -132,3 +132,7 @@
 > A design is “simple” if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods. --KENT BECK
 
 > The best reaction to “this is confusing, where are the docs” is to rewrite the feature to make it less confusing, not write more docs. --JEFF ATWOOD
+
+> Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love. --PETE CORDELL
+
+> Reusing pieces of code is like picking off sentences from other people's stories and trying to make a magazine article. --BOB FRANKSTON
