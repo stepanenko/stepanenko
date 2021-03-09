@@ -136,3 +136,7 @@
 > Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love. --PETE CORDELL
 
 > Reusing pieces of code is like picking off sentences from other people's stories and trying to make a magazine article. --BOB FRANKSTON
+
+> Such is modern computing: everything simple is made too complicated because it's easy to fiddle with; everything complicated stays complicated because it's hard to fix. --ROB PIKE
+
+> 90% of the functionality delivered now is better than 100% delivered never. --BRIAN W. KERNIGHAN and P. J. PLAUGHER
