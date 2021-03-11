@@ -140,3 +140,5 @@
 > Such is modern computing: everything simple is made too complicated because it's easy to fiddle with; everything complicated stays complicated because it's hard to fix. --ROB PIKE
 
 > 90% of the functionality delivered now is better than 100% delivered never. --BRIAN W. KERNIGHAN and P. J. PLAUGHER
+
+> The best way to prepare [to be a programmer] is to write programs, and to study great programs that other people have written. In my case, I went to the garbage cans at the Computer Science Center and fished out listings of their operating system. --BILL GATES
