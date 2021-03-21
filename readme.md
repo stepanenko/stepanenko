@@ -15,7 +15,9 @@
 
 **Progress** - page 61 / 310
 
-#### [Advanced React Redux Performance](https://www.youtube.com/watch?v=7pO3563Qi1Y) Done [Code](https://github.com/joshribakoff/redux-10000-todos)
+#### [Advanced React Redux Performance](https://www.youtube.com/watch?v=7pO3563Qi1Y) Done [[Code]](https://github.com/joshribakoff/redux-10000-todos)
+
+---
 
 > _Code is like humor. When you have to explain it, it’s bad._
 
