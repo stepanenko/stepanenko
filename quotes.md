@@ -142,3 +142,37 @@
 > 90% of the functionality delivered now is better than 100% delivered never. --BRIAN W. KERNIGHAN and P. J. PLAUGHER
 
 > The best way to prepare [to be a programmer] is to write programs, and to study great programs that other people have written. In my case, I went to the garbage cans at the Computer Science Center and fished out listings of their operating system. --BILL GATES
+
+> It works on my machine.
+
+> A programmer does not primarily write code; rather, he primarily writes to another programmer about his problem solution. The understanding of this fact is the final step in his maturation as technician.
+
+> Blame the implementation, not the technique. --TIM KADLEC
+
+> When debugging, novices insert corrective code; experts remove defective code. --RICHARD PATTIS
+
+> Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet. --MICHAEL A. JACKSON
+
+> A person without data is just another person with an opinion. --METRICS
+
+> Sure I could program in PHP, but I could also use a sundial to tell time.
+
+> Features, quality, time: pick two. --SPECIFICATION
+
+> Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.
+
+> If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+
+> Without requirements or design, programming is the art of adding bugs to an empty text file. --LOUIS SRYGLEY
+
+> The trick is to fix the problem you have, rather than the problem you want. --BRAM COHEN
+
+> In order to understand recursion, one must first understand recursion.
+
+> Better train people and risk they leave — than do nothing and risk they stay.
+
+> A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+
+> Premature optimization is the root of all evil in programming.
+
+> Never trust a programmer in a suit.
