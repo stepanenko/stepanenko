@@ -1,7 +1,7 @@
 
 ## [Mastering React](https://github.com/stepanenko/mosh-react)
 
-**Progress** - 160 / 214, Total - **13h 17m**
+**Progress** - 160 / 214, Total - **13h 17m** 
 
 ## [Redux](https://coursehunter.net/course/prodvinutyy-redux-codewithmosh)
 
