@@ -1,9 +1,9 @@
 
 ## _Quotes_
 
-> _Code is the tool. The program is the product._
+> Code is the tool. The program is the product.
 
-> _I hate code, and I want as little of it as possible in our product._
+> I hate code, and I want as little of it as possible in our product.
 
 > As you strip constructors and classical inheritance out of JavaScript it: gets simpler, more flexible, more powerful and expressive
 
@@ -176,3 +176,5 @@
 > Premature optimization is the root of all evil in programming.
 
 > Never trust a programmer in a suit.
+
+> The central enemy of reliability is complexity. --DANIEL GEER
