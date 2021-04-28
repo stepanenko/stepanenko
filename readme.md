@@ -34,3 +34,5 @@
 > _Don’t write code for something that isn’t actually required, yet. (You Aren’t Gonna Need It (YAGNI))_
 
 [[ More quotes... ]](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)
+
+[[ Favourite JS Books... ]](https://github.com/stepanenko/javascript-info#favourite-js-books)
