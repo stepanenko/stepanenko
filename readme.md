@@ -5,7 +5,7 @@
 
 ## [Redux](https://coursehunter.net/course/prodvinutyy-redux-codewithmosh)
 
-**Progress** - 55, 98-101 / 105, Total - **6h 5m**
+**Progress** - 55, 98-105 / 105, Total - **6h 5m**
 
 ## [Epic React](https://coursehunter.net/course/epicheskiy-react)
 
