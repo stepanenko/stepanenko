@@ -1,15 +1,5 @@
 
-## [Mastering React](https://github.com/stepanenko/mosh-react)
-
-**Progress** - 160 / 214, Total - **13h 17m** 
-
-## [Epic React](https://coursehunter.net/course/epicheskiy-react)
-
-**Progress** - 49 / 363, Total - **27h 57m**, [Hooks Code](https://github.com/stepanenko/react-hooks-epic)
-
-## [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book)
-
-**Progress** - page 61 / 310
+## [Mastering React](https://github.com/stepanenko/mosh-react) | [Epic React](https://coursehunter.net/course/epicheskiy-react) | [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book)
 
 ---
 
