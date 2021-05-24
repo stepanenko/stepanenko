@@ -1,8 +1,9 @@
 
-To do list:
-- ### [Mastering React](https://github.com/stepanenko/mosh-react)
-- ### [Epic React](https://coursehunter.net/course/epicheskiy-react)
-- ### [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book)
+In Progres...:
+
+### [Mastering React](https://github.com/stepanenko/mosh-react)
+### [Epic React](https://coursehunter.net/course/epicheskiy-react)
+### [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book)
 
 ---
 
