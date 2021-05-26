@@ -1,5 +1,5 @@
 
-In Progres...:
+**In Progres:**
 
 ### [Mastering React](https://github.com/stepanenko/mosh-react)
 ### [Epic React](https://coursehunter.net/course/epicheskiy-react)
