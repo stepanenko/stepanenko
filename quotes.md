@@ -187,3 +187,6 @@
 > Better put: decisions you wish you could get right early.
 > Best put: decisions that are hard to change.
 
+> Architecture - is the important stuff. --Martin Fowler
+
+> Architecture is about internal quality. (The expernal is what users see)
