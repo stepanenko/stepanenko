@@ -178,3 +178,12 @@
 > Never trust a programmer in a suit.
 
 > The central enemy of reliability is complexity. --DANIEL GEER
+
+### Design and Architecture
+
+> Architecture - expert developers' shared understanding of the system design.
+
+> Architecture - set of design decisions that must be made early.  
+> Better put: decisions you wish you could get right early.
+> Best put: decisions that are hard to change.
+
