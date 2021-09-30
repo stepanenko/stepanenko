@@ -1,7 +1,7 @@
 
 Currently Studying:
 
-### Book: [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book)
+### Book: [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book) 
 
 > _Measuring programming progress by lines of code is like measuring aircraft building progress by weight. --BILL GATES_
 
