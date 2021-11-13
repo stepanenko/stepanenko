@@ -1,7 +1,13 @@
 
-Currently Studying:
+**Current Readings:**
 
-### Book: [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book) 
+- [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book) 
+
+- Nest.js: A progressive Node.js Framework
+
+- Distributed Systems with Node.js
+
+**Favourite Quotes:**
 
 > _A man grows with the greatness of his tasks._
 
