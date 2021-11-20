@@ -7,6 +7,8 @@
 
 - Distributed Systems with Node.js
 
+- Clean JavaScript. A concise guide to learning Clean Code, SOLID and Unit Testing
+
 **Favourite Quotes:**
 
 > _A man grows with the greatness of his tasks._
