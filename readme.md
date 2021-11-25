@@ -29,8 +29,6 @@
 
 > _Don’t write code for something that isn’t actually required, yet. (You Aren’t Gonna Need It (YAGNI))_
 
-> _Your time as a developer is valuable. Don't make trivial tasks time consuming. Simplicity of source code is a great feature itself._
-
 [[ More quotes... ]](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)
 
 [[ Favourite JS Books... ]](https://github.com/stepanenko/javascript-info#favourite-js-books)
