@@ -1,6 +1,8 @@
 
 ## _Quotes_
 
+> Your time as a developer is valuable. Don't make trivial tasks time consuming. Simplicity of source code is a great feature itself.
+
 > Code is the tool. The program is the product.
 
 > I hate code, and I want as little of it as possible in our product.
