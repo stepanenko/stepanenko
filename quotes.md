@@ -1,6 +1,10 @@
 
 ## _Quotes_
 
+> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+
+> The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.
+
 > Your time as a developer is valuable. Don't make trivial tasks time consuming. Simplicity of source code is a great feature itself.
 
 > Code is the tool. The program is the product.
