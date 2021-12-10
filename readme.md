@@ -17,9 +17,9 @@
 
 > _Code is like humor. When you have to explain it, it’s bad._
 
-> _Strive to write as little JavaScript as possible._
-
 > _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
+
+> _Strive to write as little JavaScript as possible._
 
 > _First do it, then do it right, then do it better/faster._
 
