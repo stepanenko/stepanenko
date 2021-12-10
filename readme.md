@@ -17,13 +17,9 @@
 
 > _Code is like humor. When you have to explain it, it’s bad._
 
-> _As a Lead JavaScript Engineer, I try to get my team to write as little JavaScript as possible._
+> _Strive to write as little JavaScript as possible._
 
 > _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
-
-> _One of my most productive days was throwing away 1000 lines of code._
-
-> _A good API is not just easy to use but also hard to misuse._
 
 > _First do it, then do it right, then do it better/faster._
 
