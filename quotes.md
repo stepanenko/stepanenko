@@ -11,6 +11,10 @@
 
 > I hate code, and I want as little of it as possible in our product.
 
+> One of my most productive days was throwing away 1000 lines of code.
+
+> A good API is not just easy to use but also hard to misuse.
+
 > As you strip constructors and classical inheritance out of JavaScript it: gets simpler, more flexible, more powerful and expressive.
 
 > Keep It Stupid Simple (KISS). Pure functions are stupid simple in the best possible way. --Eric Elliott
