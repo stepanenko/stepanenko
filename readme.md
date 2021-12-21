@@ -11,6 +11,8 @@
 
 **Favourite Quotes:**
 
+> _Programming is thinking, not typing._
+
 > _A man grows with the greatness of his tasks._
 
 > _Measuring programming progress by lines of code is like measuring aircraft building progress by weight. --BILL GATES_
