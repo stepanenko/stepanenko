@@ -11,7 +11,7 @@
 
 **Favourite Quotes:**
 
-> _Because JavaScript can be used without understanding, the understanding of the language is often never attained._
+> _Because JavaScript can be used without understanding, the understanding of the language is often never attained. -- Kyle Simpson_
 
 > _Programming is thinking, not typing._
 
