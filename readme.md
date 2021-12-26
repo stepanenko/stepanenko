@@ -11,6 +11,8 @@
 
 **Favourite Quotes:**
 
+> _Because JavaScript can be used without understanding, the understanding of the language is often never attained._
+
 > _Programming is thinking, not typing._
 
 > _A man grows with the greatness of his tasks._
