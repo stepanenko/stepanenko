@@ -13,6 +13,8 @@
 
 > One of my most productive days was throwing away 1000 lines of code.
 
+> Code is like humor. When you have to explain it, it’s bad.
+
 > A good API is not just easy to use but also hard to misuse.
 
 > As you strip constructors and classical inheritance out of JavaScript it: gets simpler, more flexible, more powerful and expressive.
