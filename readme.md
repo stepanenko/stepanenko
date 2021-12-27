@@ -19,8 +19,6 @@
 
 > _Measuring programming progress by lines of code is like measuring aircraft building progress by weight. --BILL GATES_
 
-> _Code is like humor. When you have to explain it, it’s bad._
-
 > _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
 
 > _Strive to write as little JavaScript as possible._
