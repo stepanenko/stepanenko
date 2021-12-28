@@ -11,6 +11,8 @@
 
 **Favourite Quotes:**
 
+> _If you define the problem correctly, you almost have the solution._
+
 > _Because JavaScript can be used without understanding, the understanding of the language is often never attained. -- Kyle Simpson_
 
 > _Programming is thinking, not typing._
