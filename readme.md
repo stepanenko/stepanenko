@@ -25,7 +25,7 @@
 
 > _Strive to write as little JavaScript as possible._
 
-> _First do it, then do it right, then do it better/faster._
+> _First just make it work, then make it work right, then make it work better(faster)._
 
 > _Don’t write code for something that isn’t actually required, yet. (You Aren’t Gonna Need It (YAGNI))_
 
