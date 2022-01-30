@@ -1,13 +1,23 @@
 
 **Current Readings:**
 
-- [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book) 
+- React
 
-- Nest.js: A progressive Node.js Framework
+  - [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book) 
 
-- Distributed Systems with Node.js
+- Nodejs
 
-- Clean JavaScript. A concise guide to learning Clean Code, SOLID and Unit Testing
+  - Nest.js: A progressive Node.js Framework
+
+  - Distributed Systems with Node.js
+
+- JavaScript
+
+  - Clean JavaScript. A concise guide to learning Clean Code, SOLID and Unit Testing
+
+  - Composing Software - An Exploration of Functional Programming and Object Composition in JavaScript
+
+---
 
 **Favourite Quotes:**
 
