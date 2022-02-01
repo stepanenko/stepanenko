@@ -1,30 +1,4 @@
-
-### Current Readings:
-
-- JavaScript
-
-  - Clean JavaScript. A concise guide to learning Clean Code, SOLID and Unit Testing
-
-  - Composing Software - An Exploration of Functional Programming and Object Composition in JavaScript
-
-- TypeScript
-
-  -  Effective TypeScript - 62 Specific Ways to Improve Your TypeScript
-
-- Nodejs
-
-  - Distributed Systems with Node.js
-
-- React
-
-  - [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book) 
-
-
-
 ---
-
-### Favourite Quotes:
-
 > _If you define the problem correctly, you almost have the solution._
 
 > _We spend more time maintaining software than we do creating it from scratch -- Eric Elliott “Composing Software”_
@@ -45,6 +19,8 @@
 
 > _Don’t write code for something that isn’t actually required, yet. (You Aren’t Gonna Need It (YAGNI))_
 
-[[ More quotes... ]](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)
+[[ More Quotes... ]](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)
 
-[[ Favourite JS Books... ]](https://github.com/stepanenko/javascript-info#favourite-js-books)
+[[ Favourite JS Books ]](https://github.com/stepanenko/javascript-info#favourite-js-books)
+
+[[ Current Readings ]](https://github.com/stepanenko/stepanenko/blob/master/readings.md)
