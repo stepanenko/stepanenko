@@ -1,15 +1,5 @@
 
-**Current Readings:**
-
-- React
-
-  - [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book) 
-
-- Nodejs
-
-  - Nest.js: A progressive Node.js Framework
-
-  - Distributed Systems with Node.js
+### Current Readings:
 
 - JavaScript
 
@@ -17,9 +7,23 @@
 
   - Composing Software - An Exploration of Functional Programming and Object Composition in JavaScript
 
+- TypeScript
+
+  -  Effective TypeScript - 62 Specific Ways to Improve Your TypeScript
+
+- Nodejs
+
+  - Distributed Systems with Node.js
+
+- React
+
+  - [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book) 
+
+
+
 ---
 
-**Favourite Quotes:**
+### Favourite Quotes:
 
 > _If you define the problem correctly, you almost have the solution._
 
