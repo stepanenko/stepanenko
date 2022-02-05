@@ -3,7 +3,7 @@
 
 - JavaScript
 
-  - Clean JavaScript. A concise guide to learning Clean Code, SOLID and Unit Testing
+  - Clean JavaScript - A concise guide to learning Clean Code, SOLID and Unit Testing
   - Composing Software - An Exploration of Functional Programming and Object Composition in JavaScript
   - JavaScript Cookbook, Third Edition
 
