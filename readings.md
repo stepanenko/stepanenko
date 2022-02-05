@@ -14,6 +14,7 @@
 - Nodejs
 
   - Distributed Systems with Node.js
+  - NodeJS Design Patterns, Third Edition
 
 - React
 
