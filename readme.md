@@ -11,8 +11,6 @@
 
 > _Measuring programming progress by lines of code is like measuring aircraft building progress by weight. -- BILL GATES_
 
-> _Software performance is not about how many features you complete or how much code you type. It’s about how much value you create._
-
 > _Strive to write as little JavaScript as possible._
 
 > _First just make it work, then make it work right, then make it work better(faster)._
