@@ -1,4 +1,5 @@
----
+Favourite Quotes:
+
 > _If you define the problem correctly, you almost have the solution._
 
 > _We spend more time maintaining software than we do creating it from scratch -- Eric Elliott “Composing Software”_
@@ -21,4 +22,6 @@
 
 [[ Favourite JS Books ]](https://github.com/stepanenko/javascript-info#favourite-js-books)
 
-[[ Current Readings ]](https://github.com/stepanenko/stepanenko/blob/master/readings.md)
+[[ Reading List ]](https://github.com/stepanenko/stepanenko/blob/master/readings.md)
+
+[[ Watching List ]](https://github.com/stepanenko/stepanenko/blob/master/videos.md)
