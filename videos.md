@@ -5,6 +5,6 @@
 
 - Javascript Performance (egghead): 1
 
-### Nodejs:
+- HolyJS (5.11.2021): 9, 20, 28, 47
 
-- HolyJS 2021 (2-5.11.2021): 9, 28, 47
+### Nodejs:
