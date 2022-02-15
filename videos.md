@@ -14,3 +14,6 @@
 ### React:
 
 ### Nodejs:
+
+- Detecting memory leaks in nodejs and V8: 1-4,
+- Learn and Understand NodeJS (Tony Alicea): 1, 2,
