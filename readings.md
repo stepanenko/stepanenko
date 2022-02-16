@@ -1,21 +1,18 @@
 
 ## Current Readings:
 
-- JavaScript
+1. JavaScript
+    - Clean JavaScript - A concise guide to learning Clean Code, SOLID and Unit Testing
+    - Composing Software - An Exploration of Functional Programming and Object Composition in JavaScript
+    - JavaScript Cookbook, Third Edition
 
-  - Clean JavaScript - A concise guide to learning Clean Code, SOLID and Unit Testing
-  - Composing Software - An Exploration of Functional Programming and Object Composition in JavaScript
-  - JavaScript Cookbook, Third Edition
+2. React
+    - [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book)
+    - New Official React Docs - https://beta.reactjs.org/
 
-- TypeScript
+3. Nodejs
+    - Distributed Systems with Node.js
+    - NodeJS Design Patterns, Third Edition
 
-  -  Effective TypeScript - 62 Specific Ways to Improve Your TypeScript
-
-- Nodejs
-
-  - Distributed Systems with Node.js
-  - NodeJS Design Patterns, Third Edition
-
-- React
-
-  - [Learning React 2nd Edition 2020](https://github.com/stepanenko/javascript-info/tree/master/Eve%20Porcello/Learning%20React%20-%20Book) 
+4. TypeScript
+    -  Effective TypeScript - 62 Specific Ways to Improve Your TypeScript
