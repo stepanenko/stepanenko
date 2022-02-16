@@ -4,7 +4,7 @@ Favourite Quotes:
 
 > _A man grows with the greatness of his tasks._
 
-> > _Strive to write as little JavaScript as possible._
+> _Strive to write as little JavaScript as possible._
 
 > _If you define the problem correctly, you almost have the solution._
 
