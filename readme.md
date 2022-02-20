@@ -24,6 +24,6 @@ Favourite Quotes:
 
 [[ Favourite JS Books ]](https://github.com/stepanenko/javascript-info#favourite-js-books)
 
-[[ Reading List ]](https://github.com/stepanenko/stepanenko/blob/master/readings.md)
+[[ Reading List ]](https://github.com/stepanenko/stepanenko/blob/master/reading.md)
 
 [[ Watching List ]](https://github.com/stepanenko/stepanenko/blob/master/videos.md)
