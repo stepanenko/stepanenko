@@ -10,9 +10,9 @@ Favourite Quotes:
 
 > _You are not paid to use every feature of the language. - D. Crockford_
 
-> _First just make it work, then make it work right, then make it work better(faster)._
+> _First just make it work, then make it work right, then make it work better/faster._
 
-> _Don’t write code for something that isn’t actually required, yet. (You Aren’t Gonna Need It (YAGNI))_
+> _Don’t write code for something that isn’t actually required, yet. (YAGNI - You Aren’t Gonna Need It)_
 
 > _We spend more time maintaining software than we do creating it from scratch. - Eric Elliott “Composing Software”_
 
