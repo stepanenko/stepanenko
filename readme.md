@@ -26,4 +26,6 @@ Favourite Quotes:
 
 [[ Reading List ]](https://github.com/stepanenko/stepanenko/blob/master/READING.md)
 
-[[ Watching List ]](https://github.com/stepanenko/stepanenko/blob/master/videos.md)
+[[ Watching List ]](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md)
+
+[[ Articles List ]](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md)
