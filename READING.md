@@ -18,3 +18,5 @@
 
 4. TypeScript
     -  Effective TypeScript - 62 Specific Ways to Improve Your TypeScript
+
+[[ More Books... ]](https://github.com/stepanenko/javascript-info#favourite-js-books)
