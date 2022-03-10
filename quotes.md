@@ -1,6 +1,8 @@
 
 ## _Quotes_
 
+> Don’t write code for something that isn’t actually required, yet. (YAGNI - You Aren’t Gonna Need It)
+
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 
 > Software performance is not about how many features you complete or how much code you type. It’s about how much value you create.
