@@ -23,3 +23,5 @@ Favourite Quotes:
 [Reading List](https://github.com/stepanenko/stepanenko/blob/master/READING.md) / 
 [Watching List](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md) / 
 [Articles List](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md)
+
+[JS](https://github.com/stepanenko/javascript-info) / [TS](https://github.com/stepanenko/typescript-info) / [Node](https://github.com/stepanenko/nodejs-info)
