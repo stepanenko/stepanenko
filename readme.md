@@ -18,10 +18,8 @@ Favourite Quotes:
 
 > _Because JavaScript can be used without understanding, the understanding of the language is often never attained. - Kyle Simpson_
 
-[[ More Quotes... ]](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)
+> _[More Quotes...](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)_
 
-[[ Reading List ]](https://github.com/stepanenko/stepanenko/blob/master/READING.md)
-
-[[ Watching List ]](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md)
-
-[[ Articles List ]](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md)
+[Reading List](https://github.com/stepanenko/stepanenko/blob/master/READING.md) / 
+[Watching List](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md) / 
+[Articles List](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md)
