@@ -1,5 +1,7 @@
 
 # Blogs List
 
-1. Java, General:
-    - [Yegor Bugayenko](https://www.yegor256.com/best.html)
+
+- [Yegor Bugayenko](https://www.yegor256.com/best.html) (Java, IT in General)
+
+- [Alex Kondov](https://alexkondov.com/) (JavaScript, Go, AWS)
