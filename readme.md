@@ -20,8 +20,9 @@ Favourite Quotes:
 
 > _[More Quotes...](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)_
 
-[Reading List](https://github.com/stepanenko/stepanenko/blob/master/READING.md) / 
-[Watching List](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md) / 
-[Articles List](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md)
+[READING](https://github.com/stepanenko/stepanenko/blob/master/READING.md) / 
+[WATCHING](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md) / 
+[ARTICLES](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md) / 
+[BLOGS](https://github.com/stepanenko/stepanenko/blob/master/BLOGS.md)
 
 [JS](https://github.com/stepanenko/javascript-info) / [TS](https://github.com/stepanenko/typescript-info) / [Node](https://github.com/stepanenko/nodejs-info)
