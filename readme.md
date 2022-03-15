@@ -25,4 +25,10 @@ Favourite Quotes:
 [ARTICLES](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md) / 
 [BLOGS](https://github.com/stepanenko/stepanenko/blob/master/BLOGS.md)
 
-[JS](https://github.com/stepanenko/javascript-info) / [TS](https://github.com/stepanenko/typescript-info) / [Node](https://github.com/stepanenko/nodejs-info)
+[JS](https://github.com/stepanenko/javascript-info) / 
+[TS](https://github.com/stepanenko/typescript-info) / 
+[Node](https://github.com/stepanenko/nodejs-info) / 
+[Bash-Shell](https://github.com/stepanenko/bash-shell-info) / 
+[Rust](https://github.com/stepanenko/rust-info) / 
+[Python](https://github.com/stepanenko/python-info) / 
+[Go](https://github.com/stepanenko/go-info) / 
