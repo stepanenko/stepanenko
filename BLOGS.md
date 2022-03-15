@@ -5,3 +5,6 @@
 - [Yegor Bugayenko](https://www.yegor256.com/best.html) (Java, IT in General)
 
 - [Alex Kondov](https://alexkondov.com/) (JavaScript, Go, AWS)
+
+- [Refactoring Guru](https://refactoring.guru/design-patterns) (Design Patterns, Refactoring, General)
+
