@@ -8,3 +8,4 @@
 
 - [Refactoring Guru](https://refactoring.guru/design-patterns) (Design Patterns, Refactoring, General)
 
+- [Fireship](https://fireship.io/) (JavaScript, TypeScript, Web in General)
