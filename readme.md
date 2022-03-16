@@ -32,3 +32,8 @@ Favourite Quotes:
 [Rust](https://github.com/stepanenko/rust-info) / 
 [Python](https://github.com/stepanenko/python-info) / 
 [Go](https://github.com/stepanenko/go-info) / 
+[Git](https://github.com/stepanenko/git-info) / 
+[C++](https://github.com/stepanenko/c-cpp-info) / 
+[Java](https://github.com/stepanenko/java-info) / 
+
+
