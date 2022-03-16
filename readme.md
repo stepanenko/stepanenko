@@ -20,9 +20,9 @@ Favourite Quotes:
 
 > _[More Quotes...](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)_
 
-[READING](https://github.com/stepanenko/stepanenko/blob/master/READING.md) I 
-[WATCHING](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md) I 
-[ARTICLES](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md) I 
+[READING](https://github.com/stepanenko/stepanenko/blob/master/READING.md) II 
+[WATCHING](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md) II 
+[ARTICLES](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md) II 
 [BLOGS](https://github.com/stepanenko/stepanenko/blob/master/BLOGS.md)
 
 [JavaScript](https://github.com/stepanenko/javascript-info) | [Node](https://github.com/stepanenko/nodejs-info) | [Rust](https://github.com/stepanenko/rust-info) | [Python](https://github.com/stepanenko/python-info) | [Git](https://github.com/stepanenko/git-info)
