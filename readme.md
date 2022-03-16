@@ -20,18 +20,12 @@ Favourite Quotes:
 
 > _[More Quotes...](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)_
 
-[READING](https://github.com/stepanenko/stepanenko/blob/master/READING.md) / 
-[WATCHING](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md) / 
-[ARTICLES](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md) / 
+[READING](https://github.com/stepanenko/stepanenko/blob/master/READING.md) I 
+[WATCHING](https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md) I 
+[ARTICLES](https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md) I 
 [BLOGS](https://github.com/stepanenko/stepanenko/blob/master/BLOGS.md)
 
-[JavaScript](https://github.com/stepanenko/javascript-info) / 
-[TypeScript](https://github.com/stepanenko/typescript-info) / 
-[Node](https://github.com/stepanenko/nodejs-info) / 
-[Shell](https://github.com/stepanenko/bash-shell-info) / 
-[Git](https://github.com/stepanenko/git-info) / 
-[Rust](https://github.com/stepanenko/rust-info) / 
-[Python](https://github.com/stepanenko/python-info) / 
-[Go](https://github.com/stepanenko/go-info) / 
-[C++](https://github.com/stepanenko/c-cpp-info) / 
-[Java](https://github.com/stepanenko/java-info) / 
+[JavaScript](https://github.com/stepanenko/javascript-info) | [Node](https://github.com/stepanenko/nodejs-info) | [Rust](https://github.com/stepanenko/rust-info) | [Python](https://github.com/stepanenko/python-info) | [Git](https://github.com/stepanenko/git-info)
+--- | --- | --- | --- | ---
+[TypeScript](https://github.com/stepanenko/typescript-info) | [Java](https://github.com/stepanenko/java-info) | [C++](https://github.com/stepanenko/c-cpp-info) | [Go](https://github.com/stepanenko/go-info) | [Shell](https://github.com/stepanenko/bash-shell-info)
+
