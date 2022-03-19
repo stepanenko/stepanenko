@@ -31,5 +31,5 @@
     - Python Django - The Practical Guide (Max): 
 
 8. SQL
-    - SQL and PostgreSQL: The Complete Developer's Guide:
+    - SQL and PostgreSQL: The Complete Developer's Guide (Grider):
     - SQL - The Complete Guide (MySQL, PostgreSQL & more) (Max):
