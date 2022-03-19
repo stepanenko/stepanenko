@@ -29,3 +29,7 @@
 
 7. Python
     - Python Django - The Practical Guide (Max): 
+
+8. SQL
+    - SQL and PostgreSQL: The Complete Developer's Guide:
+    - SQL - The Complete Guide (MySQL, PostgreSQL & more) (Max):
