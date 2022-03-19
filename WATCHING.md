@@ -23,3 +23,9 @@
     - Ultimate Java Part 1: Fundamentals: 1, 2,
     - The Ultimate Design Patterns: Part 1:
     - Data Structures & Algorithms: Part 1:
+
+6. Go
+    - Getting Started With Golang (Max): 1, 3,
+
+7. Python
+    - Python Django - The Practical Guide (Max): 
