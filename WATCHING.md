@@ -6,6 +6,7 @@
     - HolyJS (5.11.2021): 9, 20, 21, 28, 47
     - The Coding Interview Bootcamp: Algorithms + Data Structures: 2,
     - Advanced JavaScript:
+    - [10 Design Patterns](https://www.youtube.com/watch?v=tv-_1er1mWI)
 
 2. React
     - [10 React Hooks Explained - Fireship](https://www.youtube.com/watch?v=TNhaISOUy6Q&ab_channel=Fireship)
