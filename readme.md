@@ -30,7 +30,9 @@ Favourite Quotes:
 <table>
   <td><a href="https://github.com/stepanenko/javascript-info">JavaScript</a></td>
   <td><a href="https://github.com/stepanenko/typescript-info">TypeScript</a></td>
+  <td><a href="https://github.com/stepanenko/nodejs-info">Node</a></td>
   <td><a href="https://github.com/stepanenko/sql-info">SQL</a></td>
+  <td><a href="https://github.com/stepanenko/git-info">Git</a></td>
   <td><a href="https://github.com/stepanenko/bash-shell-info">Shell</a></td>
   <td><a href="https://github.com/stepanenko/devops-info">Devops</a></td>
   <td><a href="https://github.com/stepanenko/rust-info">Rust</a></td>
@@ -42,15 +44,14 @@ Favourite Quotes:
 
 <table>
   <td><a href="https://github.com/stepanenko/react-info">React</a></td>
-  <td><a href="https://github.com/stepanenko/nodejs-info">Node</a></td>
   <td><a href="https://github.com/stepanenko/mongo-info">Mongo</a></td>
   <td><a href="https://github.com/stepanenko/firebase-info">Firebase</a></td>
   <td><a href="https://github.com/stepanenko/linux-info">Linux</a></td>
   <td><a href="https://github.com/stepanenko/mac-info">Mac</a></td>
   <td><a href="https://github.com/stepanenko/windows-info">Windows</a></td>
-  <td><a href="https://github.com/stepanenko/git-info">Git</a></td>
   <td><a href="https://github.com/stepanenko/tools-info">Tools</a></td>
   <td><a href="https://github.com/stepanenko/vscode-info">VSCode</a></td>
   <td><a href="https://github.com/stepanenko/computer-science-info">CS</a></td>
   <td><a href="https://github.com/stepanenko/network-info">Network</a></td>
+  <td><a href="https://github.com/stepanenko/browser-info">Browser</a></td>
 </table>
