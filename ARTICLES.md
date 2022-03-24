@@ -4,3 +4,13 @@
     - https://www.freecodecamp.org/news/react-interview-questions-to-know/
     - https://www.freecodecamp.org/news/the-react-cheatsheet/
     - https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470
+
+
+## To do
+- https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12
+- https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4
+- https://betterprogramming.pub/redux-context-or-recoil-which-one-is-best-for-your-modern-web-app-db41be99b448
+- https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/best-practices-for-react/amp/
+- https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76
+- https://felixgerschau.com/javascript-memory-management/
+- https://felixgerschau.com/javascript-event-loop-call-stack/
