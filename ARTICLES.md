@@ -4,6 +4,7 @@
     - https://www.freecodecamp.org/news/react-interview-questions-to-know/
     - https://www.freecodecamp.org/news/the-react-cheatsheet/
     - https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470
+    - https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/
 
 
 ## To do
