@@ -6,6 +6,8 @@
     - https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470
     - https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/
 
+2. Rust:
+    - https://leerob.io/blog/rust
 
 ## To do
 - https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12
