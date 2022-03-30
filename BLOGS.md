@@ -11,3 +11,6 @@
 - [Fireship](https://fireship.io/) (JavaScript, TypeScript, Web in General)
 
 - [Lee Robinson](https://leerob.io/) (Web, Serverless, React/Next.js)
+
+- [Felix Gerschau](https://felixgerschau.com/) (JavaScript, React)
+
