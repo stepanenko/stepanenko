@@ -1,6 +1,7 @@
 # Articles List:
 
 1. React:
+    - https://betterprogramming.pub/7-custom-react-hooks-you-probably-need-in-your-project-12f86216df94
     - https://www.freecodecamp.org/news/react-interview-questions-to-know/
     - https://www.freecodecamp.org/news/the-react-cheatsheet/
     - https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470
