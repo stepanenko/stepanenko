@@ -12,7 +12,6 @@
 ## To do
 - https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12
 - https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4
-- https://betterprogramming.pub/8-best-practices-every-react-developer-should-follow-44177670c646
 - https://betterprogramming.pub/redux-context-or-recoil-which-one-is-best-for-your-modern-web-app-db41be99b448
 - https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/best-practices-for-react/amp/
 - https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76
