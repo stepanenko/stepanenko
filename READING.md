@@ -7,6 +7,8 @@
     - Composing Software - An Exploration of Functional Programming and Object Composition in JavaScript
     - JavaScript Cookbook, Third Edition
     - JavaScript In The Industry
+    - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+    - [Code Review Tips](https://github.com/ryanmcdermott/code-review-tips)
 
 2. React
     - Tao of React
