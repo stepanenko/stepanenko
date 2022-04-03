@@ -1,13 +1,16 @@
 # Articles List:
 
-1. React:
+1. JavaScript:
+    - https://betterprogramming.pub/4-javascript-promise-methods-all-allsettled-any-and-race-ba0e0c8c034e
+
+2. React:
     - https://betterprogramming.pub/7-custom-react-hooks-you-probably-need-in-your-project-12f86216df94
     - https://www.freecodecamp.org/news/react-interview-questions-to-know/
     - https://www.freecodecamp.org/news/the-react-cheatsheet/
     - https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470
     - https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/
 
-2. Rust:
+3. Rust:
     - https://leerob.io/blog/rust
 
 ## To do
