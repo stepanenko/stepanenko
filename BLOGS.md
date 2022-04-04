@@ -1,6 +1,7 @@
 
 # Blogs List
 
+- [Dan Abramov](https://overreacted.io/) (React)
 
 - [Yegor Bugayenko](https://www.yegor256.com/best.html) (Java, IT in General)
 
