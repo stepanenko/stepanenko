@@ -14,6 +14,8 @@
     - https://leerob.io/blog/rust
 
 ## To do
+- https://blog.bitsrc.io/my-9-favorite-design-patterns-in-javascript-9d2a09651d08
+- https://blog.bitsrc.io/currying-by-example-for-javascript-developers-b1c8bc02dd5a
 - https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12
 - https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4
 - https://betterprogramming.pub/redux-context-or-recoil-which-one-is-best-for-your-modern-web-app-db41be99b448
