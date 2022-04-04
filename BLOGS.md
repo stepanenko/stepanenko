@@ -3,7 +3,7 @@
 
 - [Dan Abramov](https://overreacted.io/) (React)
 
-- [Yegor Bugayenko](https://www.yegor256.com/best.html) (Java, IT in General)
+- [Kent C. Dodds](https://kentcdodds.com/blog) (JavaScript, React)
 
 - [Alex Kondov](https://alexkondov.com/) (JavaScript, Go, AWS)
 
@@ -14,4 +14,6 @@
 - [Lee Robinson](https://leerob.io/) (Web, Serverless, React/Next.js)
 
 - [Felix Gerschau](https://felixgerschau.com/) (JavaScript, React)
+
+- [Yegor Bugayenko](https://www.yegor256.com/best.html) (Java, IT in General)
 
