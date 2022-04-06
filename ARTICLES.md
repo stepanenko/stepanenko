@@ -4,7 +4,6 @@
     - https://betterprogramming.pub/4-javascript-promise-methods-all-allsettled-any-and-race-ba0e0c8c034e
 
 2. React:
-    - https://betterprogramming.pub/7-custom-react-hooks-you-probably-need-in-your-project-12f86216df94
     - https://www.freecodecamp.org/news/react-interview-questions-to-know/
     - https://www.freecodecamp.org/news/the-react-cheatsheet/
     - https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470
@@ -14,6 +13,11 @@
     - https://leerob.io/blog/rust
 
 ## To do
+- https://kentcdodds.com/blog/optimize-react-re-renders
+- https://javascript.plainenglish.io/three-ways-to-handle-data-fetching-logic-in-react-projects-91b06eeefa70
+- https://felixgerschau.com/react-rerender-components/
+- https://medium.com/@dev_one/how-to-cleanup-side-effects-in-react-1db4ac14857b
+- https://betterprogramming.pub/7-custom-react-hooks-you-probably-need-in-your-project-12f86216df94
 - https://blog.bitsrc.io/my-9-favorite-design-patterns-in-javascript-9d2a09651d08
 - https://blog.bitsrc.io/currying-by-example-for-javascript-developers-b1c8bc02dd5a
 - https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12
