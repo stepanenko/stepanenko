@@ -4,7 +4,7 @@
 1. JavaScript
     - [Learning Patterns](https://www.patterns.dev/posts/introduction/)
     - Clean JavaScript - A concise guide to learning Clean Code, SOLID and Unit Testing
-    - Composing Software - An Exploration of Functional Programming and Object Composition in JavaScript
+    - [Composing Software - Functional Programming and Object Composition in JS](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
     - JavaScript Cookbook, Third Edition
     - JavaScript In The Industry
     - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
