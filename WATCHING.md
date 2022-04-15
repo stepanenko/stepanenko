@@ -36,3 +36,6 @@
 
 9. Network
     - Practical TLS: 1 / 57
+
+10. Terminal
+    - [50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=38s&ab_channel=freeCodeCamp.org)
