@@ -33,3 +33,6 @@
 8. SQL
     - SQL and PostgreSQL: The Complete Developer's Guide (Grider):
     - SQL - The Complete Guide (MySQL, PostgreSQL & more) (Max):
+
+9. Network
+    - Practical TLS: 1 / 57
