@@ -27,6 +27,7 @@
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 
 ### 3. React:
+- https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c
 - https://kentcdodds.com/blog/optimize-react-re-renders
 - https://javascript.plainenglish.io/three-ways-to-handle-data-fetching-logic-in-react-projects-91b06eeefa70
 - https://felixgerschau.com/react-rerender-components/
