@@ -1,6 +1,30 @@
 
 ## _Quotes_
 
+> It can be better to copy a little code than to pull in a big library for one function.
+
+> Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+
+> Programmers are often angry because they're often scared.
+
+> In the end, regardless of where you are on the development hierarchy, keep coding. It's where you're most valuable.
+
+> Deleted code is debugged code.
+
+> A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+
+> Code never lies, comments sometimes do.
+
+> Everything in software architecture is a trade-off.
+
+> The central enemy of reliability is complexity.
+
+> Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.
+
+> If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on and the dedication to go through with it.
+
+> Software being "Done" is like a lawn being "Mowed".
+
 > Don’t write code for something that isn’t actually required, yet. (YAGNI - You Aren’t Gonna Need It)
 
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
