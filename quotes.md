@@ -1,6 +1,12 @@
 
 ## _Quotes_
 
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. - Bill Gates
+
+> Strive to write as little JavaScript as possible.
+
+> Programming is thinking, not typing.
+
 > It can be better to copy a little code than to pull in a big library for one function.
 
 > Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
