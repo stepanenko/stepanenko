@@ -27,7 +27,7 @@
 
 > Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.
 
-> If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on and the dedication to go through with it.
+> If you want to develop some grand new thing, you don't need millions of dollars. You need pizza, coffee, a cheap PC to work on and dedication.
 
 > Software being "Done" is like a lawn being "Mowed".
 
