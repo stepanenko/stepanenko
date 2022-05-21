@@ -8,6 +8,8 @@ Favourite Quotes:
 
 > _You are not paid to use every feature of the language. - D. Crockford_
 
+> _You need to write lots of bad code before being able to write good code._
+
 > _First just make it work, then make it work right, then make it work better/faster._
 
 > _We spend more time maintaining software than we do creating it from scratch. - Eric Elliott “Composing Software”_
