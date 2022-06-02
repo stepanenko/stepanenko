@@ -10,6 +10,8 @@
 
 2. React
     - [10 React Hooks Explained - Fireship](https://www.youtube.com/watch?v=TNhaISOUy6Q&ab_channel=Fireship)
+    - React Query - Essentials (v2)
+    - React Query: Server State Management in React
 
 3. Nodejs
     - Detecting memory leaks in nodejs and V8: 1-5,
