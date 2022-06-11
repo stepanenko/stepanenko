@@ -20,6 +20,7 @@
 4. TypeScript
     - Enterprise Architecture Patterns (feat. TypeScript): 1-16
     - Understanding TypeScript - 2021 Edition: 80, 81, 86, 144-146, 168-171
+    - The Ultimate TypeScript Course (Mosh): 14-19
 
 5. Java
     - Ultimate Java Part 1: Fundamentals: 1, 2,
