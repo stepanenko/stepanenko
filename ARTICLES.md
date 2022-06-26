@@ -6,6 +6,7 @@
 - https://betterprogramming.pub/4-javascript-promise-methods-all-allsettled-any-and-race-ba0e0c8c034e
 
 ### 2. React:
+- https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc
 - https://betterprogramming.pub/clean-api-call-with-react-hooks-3bd6438a375a
 - https://www.freecodecamp.org/news/react-interview-questions-to-know/
 - https://www.freecodecamp.org/news/the-react-cheatsheet/
