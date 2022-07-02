@@ -9,6 +9,7 @@
     - [10 Design Patterns](https://www.youtube.com/watch?v=tv-_1er1mWI)
 
 2. React
+    - Testing React with Jest and Testing Library: 1-22
     - [10 React Hooks Explained - Fireship](https://www.youtube.com/watch?v=TNhaISOUy6Q&ab_channel=Fireship)
     - React Query - Essentials (v2)
     - React Query: Server State Management in React
