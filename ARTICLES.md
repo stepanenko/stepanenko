@@ -6,6 +6,7 @@
 - https://betterprogramming.pub/4-javascript-promise-methods-all-allsettled-any-and-race-ba0e0c8c034e
 
 ### 2. React:
+- https://medium.com/stackanatomy/redux-who-handle-your-own-state-instead-7d987511975b
 - https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc
 - https://betterprogramming.pub/clean-api-call-with-react-hooks-3bd6438a375a
 - https://www.freecodecamp.org/news/react-interview-questions-to-know/
@@ -31,7 +32,6 @@
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 
 ### 3. React:
-- https://medium.com/stackanatomy/redux-who-handle-your-own-state-instead-7d987511975b
 - https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe#e551
 - https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c
 - https://kentcdodds.com/blog/optimize-react-re-renders
