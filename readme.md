@@ -28,7 +28,7 @@ Favourite Quotes:
 <table>
   <td><a href="https://github.com/stepanenko/javascript-info">JavaScript</a></td>
   <td><a href="https://github.com/stepanenko/typescript-info">TypeScript</a></td>
-  <td><a href="https://github.com/stepanenko/nodejs-info">Node</a></td>
+  <td><a href="https://github.com/stepanenko/javascript-testing">Testing</a></td>
   <td><a href="https://github.com/stepanenko/sql-info">SQL</a></td>
   <td><a href="https://github.com/stepanenko/git-info">Git</a></td>
   <td><a href="https://github.com/stepanenko/bash-shell-info">Shell</a></td>
@@ -42,6 +42,7 @@ Favourite Quotes:
 
 <table>
   <td><a href="https://github.com/stepanenko/react-info">React</a></td>
+  <td><a href="https://github.com/stepanenko/nodejs-info">Node</a></td>
   <td><a href="https://github.com/stepanenko/mongo-info">Mongo</a></td>
   <td><a href="https://github.com/stepanenko/firebase-info">Firebase</a></td>
   <td><a href="https://github.com/stepanenko/linux-info">Linux</a></td>
