@@ -36,7 +36,7 @@ Favourite Quotes:
   <td><a href="https://github.com/stepanenko/rust-info">Rust</a></td>
   <td><a href="https://github.com/stepanenko/python-info">Python</a></td>
   <td><a href="https://github.com/stepanenko/go-info">Go</a></td>
-  <td><a href="https://github.com/stepanenko/c-cpp-info">C</a></td>
+  <td><a href="https://github.com/stepanenko/c-cpp-info">C/C++/C#</a></td>
   <td><a href="https://github.com/stepanenko/java-info">Java</a></td>
 </table>
 
