@@ -6,8 +6,6 @@ Favourite Quotes:
 
 > _If you define the problem correctly, you almost have the solution._
 
-> _You are not paid to use every feature of the language. - D. Crockford_
-
 > _You need to write lots of bad code before being able to write good code._
 
 > _First just make it work, then make it work right, then make it work better/faster._
