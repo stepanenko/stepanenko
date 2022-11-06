@@ -1,6 +1,8 @@
 
 ## _Quotes_
 
+> You are not paid to use every feature of the language. - D. Crockford
+
 > Measuring programming progress by lines of code is like measuring aircraft building progress by weight. - Bill Gates
 
 > Strive to write as little JavaScript as possible.
