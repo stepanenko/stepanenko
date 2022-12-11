@@ -29,18 +29,22 @@
     - The Ultimate Design Patterns: Part 1:
     - Data Structures & Algorithms: Part 1:
 
-6. Go
+6. C#
+    - C# Basics for Beginners: Learn C# Fundamentals by Coding (Mosh) 1-6
+    - C# Intermediate: Classes, Interfaces and OOP (Mosh)
+
+7. Go
     - Getting Started With Golang (Max): 1, 3,
 
-7. Python
+8. Python
     - Python Django - The Practical Guide (Max): 
 
-8. SQL
+9. SQL
     - SQL and PostgreSQL: The Complete Developer's Guide (Grider):
     - SQL - The Complete Guide (MySQL, PostgreSQL & more) (Max):
 
-9. Network
+10. Network
     - Practical TLS: 1,2,3 / 57
 
-10. Terminal
+11. Terminal
     - [50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=38s&ab_channel=freeCodeCamp.org)
