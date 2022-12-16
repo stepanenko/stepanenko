@@ -4,8 +4,6 @@ Favourite Quotes:
 
 > _A man grows with the greatness of his tasks._
 
-> _If you define the problem correctly, you almost have the solution._
-
 > _You need to write lots of bad code before being able to write good code._
 
 > _First just make it work, then make it work right, then make it work better/faster._
