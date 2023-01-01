@@ -32,7 +32,7 @@
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 
 ### 3. React:
-- [A (Mostly) Complete Guide to React Rendering Behavior]()
+- [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe#e551
 - https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c
 - https://kentcdodds.com/blog/optimize-react-re-renders
