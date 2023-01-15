@@ -35,6 +35,7 @@
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 
 ### 3. React:
+- https://overreacted.io/a-complete-guide-to-useeffect/
 - https://alexsidorenko.com/blog/react-render-usememo/
 - [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe#e551
