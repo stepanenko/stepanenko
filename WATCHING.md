@@ -48,3 +48,9 @@
 
 11. Terminal
     - [50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=38s&ab_channel=freeCodeCamp.org)
+
+## Done and Liked:
+
+React:
+- [Everything you need to know about React 18: Shruti Kapoor](https://www.youtube.com/watch?v=Z-NCLePa2x8&ab_channel=RealWorldReact)
+- [When To Fetch: Remixing React Router - Ryan Florence](https://www.youtube.com/watch?v=95B8mnhzoCM&t=1310s&ab_channel=RealWorldReact)
