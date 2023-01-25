@@ -49,4 +49,4 @@
 - https://betterprogramming.pub/redux-context-or-recoil-which-one-is-best-for-your-modern-web-app-db41be99b448
 - https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/best-practices-for-react/amp/
 - https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76
-- robinwieruch.de/react-hooks-fetch-data/
+- https://www.robinwieruch.de/react-hooks-fetch-data/
