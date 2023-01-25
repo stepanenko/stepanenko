@@ -9,6 +9,7 @@
 - https://alexsidorenko.com/blog/react-render-props/
 - https://alexsidorenko.com/blog/react-render-always-rerenders/
 - https://overreacted.io/before-you-memo/
+- https://kentcdodds.com/blog/how-to-use-react-context-effectively
 - https://medium.com/stackanatomy/redux-who-handle-your-own-state-instead-7d987511975b
 - https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc
 - https://betterprogramming.pub/clean-api-call-with-react-hooks-3bd6438a375a
