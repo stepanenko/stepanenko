@@ -6,6 +6,7 @@
 - https://betterprogramming.pub/4-javascript-promise-methods-all-allsettled-any-and-race-ba0e0c8c034e
 
 ### 2. React:
+- https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4
 - https://alexsidorenko.com/blog/react-render-props/
 - https://alexsidorenko.com/blog/react-render-always-rerenders/
 - https://overreacted.io/before-you-memo/
@@ -46,7 +47,6 @@
 - https://felixgerschau.com/react-rerender-components/
 - https://medium.com/@dev_one/how-to-cleanup-side-effects-in-react-1db4ac14857b
 - https://betterprogramming.pub/7-custom-react-hooks-you-probably-need-in-your-project-12f86216df94
-- https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4
 - https://betterprogramming.pub/redux-context-or-recoil-which-one-is-best-for-your-modern-web-app-db41be99b448
 - https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/best-practices-for-react/amp/
 - https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76
