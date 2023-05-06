@@ -12,8 +12,6 @@ Favourite Quotes:
 
 > _We spend more time maintaining software than we do creating it from scratch. - Eric Elliott “Composing Software”_
 
-> _Because JavaScript can be used without understanding, the understanding of the language is often never attained. - Kyle Simpson_
-
 > _[More Quotes...](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)_
 
 <table>
