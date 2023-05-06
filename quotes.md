@@ -1,6 +1,8 @@
 
 ## _Quotes_
 
+> Because JavaScript can be used without understanding, the understanding of the language is often never attained. - Kyle Simpson
+
 > If you define the problem correctly, you almost have the solution.
 
 > You are not paid to use every feature of the language. - D. Crockford
