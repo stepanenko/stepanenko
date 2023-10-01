@@ -38,6 +38,7 @@
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 
 ### 3. React:
+- https://tkdodo.eu/blog/hooks-dependencies-and-stale-closures
 - https://overreacted.io/a-complete-guide-to-useeffect/#tldr
 - https://alexsidorenko.com/blog/react-render-usememo/
 - [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
