@@ -37,7 +37,7 @@
     - Python Django - The Practical Guide (Max): 
 
 9. DevOps
-    - DevOps for Developers by Erik Reinert: 1-29
+    - DevOps for Developers by Erik Reinert: 5-29
     
 10. Java
     - Ultimate Java Part 1: Fundamentals: 1, 2,
