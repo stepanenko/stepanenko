@@ -15,5 +15,4 @@
 
 - [Felix Gerschau](https://felixgerschau.com/) (JavaScript, React)
 
-- [Yegor Bugayenko](https://www.yegor256.com/best.html) (Java, IT in General)
-
+- [Lydia Hallie](https://www.lydiahallie.io/) (JavaScript, React, Vercel)
