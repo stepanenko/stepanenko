@@ -61,6 +61,9 @@
 15. General
     - Web App Performance 2023 by Max Firtman: 1-35
 
+16. Design and UI
+    - Figma for Developers by Steve Kinney: 1-35
+
 ## Done and Liked:
 
 React:
