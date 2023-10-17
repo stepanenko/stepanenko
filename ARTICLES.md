@@ -6,6 +6,7 @@
 - https://betterprogramming.pub/4-javascript-promise-methods-all-allsettled-any-and-race-ba0e0c8c034e
 
 ### 2. React:
+- https://www.developerway.com/posts/react-re-renders-guide
 - https://felixgerschau.com/react-rerender-components/
 - https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4
 - https://alexsidorenko.com/blog/react-render-props/
@@ -38,7 +39,6 @@
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 
 ### 3. React:
-- https://www.developerway.com/posts/react-re-renders-guide
 - https://vercel.com/blog/how-react-18-improves-application-performance
 - https://dmitripavlutin.com/use-react-memo-wisely/
 - https://felixgerschau.com/react-performance-react-memo/
