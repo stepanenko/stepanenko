@@ -6,6 +6,7 @@
 - https://betterprogramming.pub/4-javascript-promise-methods-all-allsettled-any-and-race-ba0e0c8c034e
 
 ### 2. React:
+- https://felixgerschau.com/react-performance-react-memo/
 - https://www.developerway.com/posts/react-re-renders-guide
 - https://felixgerschau.com/react-rerender-components/
 - https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4
@@ -41,7 +42,6 @@
 ### 3. React:
 - https://vercel.com/blog/how-react-18-improves-application-performance
 - https://dmitripavlutin.com/use-react-memo-wisely/
-- https://felixgerschau.com/react-performance-react-memo/
 - https://tkdodo.eu/blog/hooks-dependencies-and-stale-closures
 - https://overreacted.io/a-complete-guide-to-useeffect/#tldr
 - https://alexsidorenko.com/blog/react-render-usememo/
