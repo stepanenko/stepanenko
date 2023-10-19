@@ -19,6 +19,7 @@ Favourite Quotes:
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md">Watching</a></td>
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md">Articles</a></td>
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/BLOGS.md">Blogs</a></td>
+  <td><a href="https://github.com/stepanenko/stepanenko/blob/master/YOUTUBE.md">YouTube</a></td>
 </table>
 
 <table>
