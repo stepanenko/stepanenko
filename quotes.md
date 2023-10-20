@@ -1,5 +1,11 @@
 
-## _Quotes_
+# Quotes
+
+> 80% practice, 20% theory.
+
+> Programming is thinking, not typing.
+
+> A man grows with the greatness of his tasks.
 
 > Because JavaScript can be used without understanding, the understanding of the language is often never attained. - Kyle Simpson
 
