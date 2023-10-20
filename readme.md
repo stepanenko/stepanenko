@@ -1,5 +1,3 @@
-Favourite Quotes:
-
 > _You need to write lots of bad code before being able to write good code._
 
 > _First just make it work, then make it work right, then make it work better/faster._
@@ -9,6 +7,7 @@ Favourite Quotes:
 > _[More Quotes...](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)_
 
 <table>
+  <td><a href="https://github.com/stepanenko/stepanenko/blob/master/quotes.md">Quotes</a></td>
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/READING.md">Reading</a></td>
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/WATCHING.md">Watching</a></td>
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/ARTICLES.md">Articles</a></td>
