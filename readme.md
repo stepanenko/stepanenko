@@ -1,11 +1,5 @@
 Favourite Quotes:
 
-> _80% practice, 20% theory._
-
-> _Programming is thinking, not typing._
-
-> _A man grows with the greatness of his tasks._
-
 > _You need to write lots of bad code before being able to write good code._
 
 > _First just make it work, then make it work right, then make it work better/faster._
