@@ -4,8 +4,6 @@
 
 > _We spend more time maintaining software than we do creating it from scratch. - Eric Elliott “Composing Software”_
 
-> _[More Quotes...](https://github.com/stepanenko/stepanenko/blob/master/quotes.md)_
-
 <table>
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/quotes.md">Quotes</a></td>
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/READING.md">Reading</a></td>
@@ -22,7 +20,7 @@
   <td><a href="https://github.com/stepanenko/sql-info">SQL</a></td>
   <td><a href="https://github.com/stepanenko/git-info">Git</a></td>
   <td><a href="https://github.com/stepanenko/bash-shell-info">Shell</a></td>
-  <td><a href="https://github.com/stepanenko/devops-info">Devops</a></td>
+  <td><a href="https://github.com/stepanenko/devops-info">DevOps</a></td>
   <td><a href="https://github.com/stepanenko/rust-info">Rust</a></td>
   <td><a href="https://github.com/stepanenko/python-info">Python</a></td>
   <td><a href="https://github.com/stepanenko/go-info">Go</a></td>
