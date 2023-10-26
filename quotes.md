@@ -1,19 +1,25 @@
 
 # Quotes
 
+> You need to write lots of bad code before being able to write good code.
+
+> First just make it work, then make it work right, then make it work better/faster.
+
+> We spend more time maintaining software than we do creating it from scratch. --Eric Elliott
+
 > 80% practice, 20% theory.
 
 > Programming is thinking, not typing.
 
 > A man grows with the greatness of his tasks.
 
-> Because JavaScript can be used without understanding, the understanding of the language is often never attained. - Kyle Simpson
+> Because JavaScript can be used without understanding, the understanding of the language is often never attained. --Kyle Simpson
 
 > If you define the problem correctly, you almost have the solution.
 
-> You are not paid to use every feature of the language. - D. Crockford
+> You are not paid to use every feature of the language. --D. Crockford
 
-> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. - Bill Gates
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. --Bill Gates
 
 > Strive to write as little JavaScript as possible.
 
