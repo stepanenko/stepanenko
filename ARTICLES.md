@@ -6,6 +6,7 @@
 - https://betterprogramming.pub/4-javascript-promise-methods-all-allsettled-any-and-race-ba0e0c8c034e
 
 ### 2. React:
+- https://kentcdodds.com/blog/usememo-and-usecallback
 - https://www.developerway.com/posts/how-to-write-performant-react-code
 - https://www.developerway.com/posts/react-elements-children-parents
 - https://dmitripavlutin.com/use-react-memo-wisely/
