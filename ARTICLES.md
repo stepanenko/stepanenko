@@ -16,7 +16,6 @@
 - https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4
 - https://alexsidorenko.com/blog/react-render-props/
 - https://alexsidorenko.com/blog/react-render-always-rerenders/
-- https://overreacted.io/before-you-memo/
 - https://kentcdodds.com/blog/how-to-use-react-context-effectively
 - https://medium.com/stackanatomy/redux-who-handle-your-own-state-instead-7d987511975b
 - https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc
@@ -44,11 +43,13 @@
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 
 ### 3. React:
+- https://overreacted.io/before-you-memo/
+- https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render
 - https://vercel.com/blog/how-react-18-improves-application-performance
 - https://tkdodo.eu/blog/hooks-dependencies-and-stale-closures
 - https://overreacted.io/a-complete-guide-to-useeffect/#tldr
 - https://alexsidorenko.com/blog/react-render-usememo/
-- [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+- [React Rendering Guide by Mark Erikson](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe#e551
 - https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c
 - https://kentcdodds.com/blog/optimize-react-re-renders
