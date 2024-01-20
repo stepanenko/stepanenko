@@ -1,3 +1,5 @@
+> _Making your code simple is the hardest part._
+
 > _You need to write lots of bad code before being able to write good code._
 
 > _We spend more time maintaining software than we do creating it from scratch._
