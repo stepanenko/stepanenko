@@ -43,6 +43,8 @@
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 
 ### 3. React:
+- https://www.developerway.com/posts/components-composition-how-to-get-it-right
+- https://daily.dev/blog/react-19-everything-you-need-to-know-in-one-place
 - https://overreacted.io/before-you-memo/
 - https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render
 - https://vercel.com/blog/how-react-18-improves-application-performance
