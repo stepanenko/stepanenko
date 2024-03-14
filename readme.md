@@ -1,3 +1,5 @@
+> _Simplicity is prerequisite for reliability._
+
 > _Making your code simple is the hardest part._
 
 > _You need to write lots of bad code before being able to write good code._
