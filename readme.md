@@ -20,9 +20,10 @@
 <table>
   <td><a href="https://github.com/stepanenko/javascript-info">JavaScript</a></td>
   <td><a href="https://github.com/stepanenko/typescript-info">TypeScript</a></td>
-  <td><a href="https://github.com/stepanenko/javascript-testing">Testing</a></td>
   <td><a href="https://github.com/stepanenko/react-info">React</a></td>
   <td><a href="https://github.com/stepanenko/nodejs-info">Node</a></td>
+  <td><a href="https://github.com/stepanenko/graphql-info">GraphQL</a></td>
+  <td><a href="https://github.com/stepanenko/javascript-testing">Testing</a></td>
   <td><a href="https://github.com/stepanenko/bash-shell-info">Shell</a></td>
   <td><a href="https://github.com/stepanenko/rust-info">Rust</a></td>
   <td><a href="https://github.com/stepanenko/python-info">Python</a></td>
