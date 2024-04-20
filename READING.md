@@ -2,7 +2,8 @@
 ## Current Readings:
 
 1. JavaScript
-    - You Don't Know JS Yet (Kyle Simpson)
+    - You Don't Know JS - 6 books (Kyle Simpson)
+    - You Don't Know JS Yet - 2 books (Kyle Simpson)
     - [JS and React Design Patterns](https://www.patterns.dev/)
     - Clean JavaScript - A concise guide to learning Clean Code, SOLID and Unit Testing
     - [Composing Software - Functional Programming and Object Composition in JS](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
