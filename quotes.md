@@ -1,6 +1,7 @@
 
 # Quotes
 
+
 > The less code you use, the less there is to break.
 
 > You need to write lots of bad code before being able to write good code.
