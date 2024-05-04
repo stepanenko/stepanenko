@@ -6,6 +6,7 @@
 - https://betterprogramming.pub/4-javascript-promise-methods-all-allsettled-any-and-race-ba0e0c8c034e
 
 ### 2. React:
+- https://overreacted.io/a-complete-guide-to-useeffect/#tldr
 - https://kentcdodds.com/blog/usememo-and-usecallback
 - https://www.developerway.com/posts/how-to-write-performant-react-code
 - https://www.developerway.com/posts/react-elements-children-parents
@@ -49,7 +50,6 @@
 - https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render
 - https://vercel.com/blog/how-react-18-improves-application-performance
 - https://tkdodo.eu/blog/hooks-dependencies-and-stale-closures
-- https://overreacted.io/a-complete-guide-to-useeffect/#tldr
 - https://alexsidorenko.com/blog/react-render-usememo/
 - [React Rendering Guide by Mark Erikson](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe#e551
