@@ -18,6 +18,9 @@
     - React Query: Server State Management in React
 
 4. Nodejs
+    - Understanding Node.js: Core Concepts: 0/110
+    - API Design in Node.js, v4: 0/49
+    - Introduction to Node.js, v3 (the first few videos can be good to refresh knowledge): 0/28
     - Detecting memory leaks in nodejs and V8: 1-5,
     - Learn and Understand NodeJS (Tony Alicea): 1-3,
 
