@@ -5,7 +5,6 @@
     - Practical Problem Solving with Algorithms by Kyle Simpson: 1-43
     - Advanced Front-End & JavaScript Questions by Lydia: 2-31
     - Javascript Performance (egghead): 1
-    - HolyJS (5.11.2021): 9, 20, 21, 28, 47
     - The Coding Interview Bootcamp: Algorithms + Data Structures: 2,
     - Advanced JavaScript:
     - [10 Design Patterns](https://www.youtube.com/watch?v=tv-_1er1mWI)
