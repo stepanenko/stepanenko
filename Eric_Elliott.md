@@ -1,7 +1,7 @@
 
 ### [The Difference Between Junior and Senior](https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98)
 
-..Eventually, you get hired as a senior developer not because you have
+Eventually, you get hired as a senior developer not because you have
 exceptional skills or knowledge as a developer, but because employers
 would feel silly saying you’re not senior after you’ve invested so many years.
 
@@ -9,7 +9,7 @@ If you’ve been coding for more than 3 years and you’re not yet considered se
 you may be missing a secret that separates average developers
 from [10x developers](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef).
 
-That doesn’t mean write 10x more code, but instead write code that produces 10x more value:
+That doesn’t mean writing 10x more code, but instead, writing code that produces 10x more value:
 10x more sales or 1/10th as many support requests because there are fewer critical bugs.
 Software performance is not about how many features you complete or how much code you type.
 It’s about how much value you create.
@@ -43,11 +43,11 @@ Empathetic developers write better software. They’re also easier to get along 
 
 ### Learning Tips:
 
-- If you want to learn something quickly, you can’t have your attention scattered everywhere except where you need it. Pick one language (start with JavaScript), one framework (start with React), one book, one course, one topic, etc. Whatever you pick, focus on that one thing until you have a sufficient mastery of it before you move on to something else.
+- If you want to learn something quickly, you can’t have your attention scattered everywhere except where you need it. Pick one language (start with JavaScript), one framework (start with React), one book, one course, one topic, etc. Whatever you pick, focus on that one thing until you have sufficient mastery of it before you move on to something else.
 
 - Many of the most useful insights available to software developers come from books. There are lots of good YouTube videos and courses online, but books are the standard bearers of software development culture and knowledge.
 
-- If you read something interesting that you want to remember, review it the next day. Test yourself. Then test yourself again the day after. And the day after. Do that 4 days in a row, and your long-term memory increase dramatically.
+- If you read something interesting that you want to remember, review it the next day. Test yourself. Then test yourself again the day after. And the day after. Do that 4 days in a row, and your long-term memory increases dramatically.
 
 - Some people learn best by reading, others by watching videos, but if you mix it up — watch a video, then do some reading, then practice with some interactive code sessions, you’ll repeat the concepts from multiple angles, and multiple examples.
 
