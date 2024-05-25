@@ -3,7 +3,7 @@
 const addToCart = (cart, item, quantity) => {
   cart.items.push({
     item,
-    quantity
+    quantity,
   });
   return cart;
 };
@@ -14,7 +14,7 @@ const pureAddToCart = (cart, item, quantity) => ({
   ...cart,
   items: cart.items.concat({
     item,
-    quantity
+    quantity,
   })
 });
 
@@ -23,8 +23,8 @@ const pureAddToCart = (cart, item, quantity) => ({
 const myCart = {
   id: 'cart123',
   items: [
-    { item: 'Apple', quantity: 3 }
-  ]
+    { item: 'Apple', quantity: 3 },
+  ],
 };
 
 console.log(
