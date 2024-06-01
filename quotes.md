@@ -16,6 +16,8 @@
 
 > A man grows with the greatness of his tasks.
 
+> Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.
+
 > Because JavaScript can be used without understanding, the understanding of the language is often never attained. --Kyle Simpson
 
 > If you define the problem correctly, you almost have the solution.
