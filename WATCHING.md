@@ -51,7 +51,7 @@
     - Data Structures & Algorithms: Part 1:
 
 11. C#
-    - C# Basics for Beginners: Learn C# Fundamentals by Coding (Mosh) 1-6
+    - C# Basics for Beginners: Learn C# Fundamentals by Coding (Mosh) 1-12 / 74
     - C# Intermediate: Classes, Interfaces and OOP (Mosh)
 
 12. SQL
