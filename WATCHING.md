@@ -59,7 +59,7 @@
     - SQL - The Complete Guide (MySQL, PostgreSQL & more) (Max):
 
 13. Network
-    - Practical TLS: 1,2,3 / 57
+    - `*` Practical TLS: 1,2,3 / 57
     - Introduction to Networking: 13 / 28
 
 14. Terminal
