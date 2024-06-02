@@ -24,7 +24,7 @@
     - Introduction to Node.js, v3 (the first few videos can be good to refresh knowledge): 0 / 28
     - Detecting memory leaks in nodejs and V8: 1-5,
     - Learn and Understand NodeJS (Tony Alicea): 1-3,
-    - `*` The Node.js Master Class - No Frameworks, No NPM | Node v8.x: 1,5 / 83
+    - `*` The Node.js Master Class - No Frameworks, No NPM | Node v8.x: 1-7 / 83
     - Node JS: Advanced Concepts UPD:2023 (Stephen Grider): 0 / 162
 
 5. TypeScript
