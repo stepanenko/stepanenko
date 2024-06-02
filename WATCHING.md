@@ -17,11 +17,13 @@
     - React Query: Server State Management in React
 
 4. Nodejs
-    - Understanding Node.js: Core Concepts: 0/110
-    - API Design in Node.js, v4: 0/49
-    - Introduction to Node.js, v3 (the first few videos can be good to refresh knowledge): 0/28
+    - Understanding Node.js: Core Concepts: 0 / 110
+    - API Design in Node.js, v4: 0 / 49
+    - Introduction to Node.js, v3 (the first few videos can be good to refresh knowledge): 0 / 28
     - Detecting memory leaks in nodejs and V8: 1-5,
     - Learn and Understand NodeJS (Tony Alicea): 1-3,
+    - The Node.js Master Class - No Frameworks, No NPM | Node v8.x: 1,5 / 83
+    - Node JS: Advanced Concepts UPD:2023 (Stephen Grider): 0 / 162
 
 5. TypeScript
     - The Ultimate TypeScript Course (Mosh): 14-24
