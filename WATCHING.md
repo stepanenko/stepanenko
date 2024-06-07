@@ -28,7 +28,7 @@
     - Node JS: Advanced Concepts UPD:2023 (Stephen Grider): 0 / 162
 
 5. TypeScript
-    - `*` The Ultimate TypeScript Course (Mosh): 35 / 92
+    - `*` The Ultimate TypeScript Course (Mosh): 41 / 92
     - Practical Advanced TypeScript: 1-3
     - Enterprise Architecture Patterns (feat. TypeScript): 1-16
     - Understanding TypeScript - 2021 Edition: 80, 81, 86, 144-146, 168-171
@@ -46,12 +46,12 @@
     - DevOps for Developers by Erik Reinert: 5-29
     
 10. Java
-    - Ultimate Java Part 1: Fundamentals: 1, 2,
-    - The Ultimate Design Patterns: Part 1:
+    - Ultimate Java Part 1: Fundamentals: 2 / 57
+    - The Ultimate Design Patterns: Part 1: 2 / 55
     - Data Structures & Algorithms: Part 1:
 
 11. C#
-    - `*` C# Basics for Beginners: Learn C# Fundamentals by Coding (Mosh) 1-21 / 74
+    - C# Basics for Beginners: Learn C# Fundamentals by Coding (Mosh) 42 / 74
     - C# Intermediate: Classes, Interfaces and OOP (Mosh)
 
 12. SQL
