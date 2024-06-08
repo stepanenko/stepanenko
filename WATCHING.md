@@ -28,7 +28,7 @@
     - Node JS: Advanced Concepts UPD:2023 (Stephen Grider): 0 / 162
 
 5. TypeScript
-    - `*` The Ultimate TypeScript Course (Mosh): 41 / 92
+    - `*` The Ultimate TypeScript Course (Mosh): 58 / 92
     - Practical Advanced TypeScript: 1-3
     - Enterprise Architecture Patterns (feat. TypeScript): 1-16
     - Understanding TypeScript - 2021 Edition: 80, 81, 86, 144-146, 168-171
