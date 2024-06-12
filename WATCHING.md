@@ -4,6 +4,7 @@
 `*` engaging course
 
 1. JavaScript
+    - Bare Metal JavaScript: The JavaScript Virtual Machine: 2 / 18
     - Practical Problem Solving with Algorithms by Kyle Simpson: 1-43
     - Advanced Front-End & JavaScript Questions by Lydia: 2-31
     - Javascript Performance (egghead): 1
