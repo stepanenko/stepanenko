@@ -8,7 +8,7 @@
     - Practical Problem Solving with Algorithms by Kyle Simpson: 1-43
     - Advanced Front-End & JavaScript Questions by Lydia: 2-31
     - Javascript Performance (egghead): 1
-    - JavaScript: The Hard Parts (Will): 17 / 59
+    - JavaScript: The Hard Parts (Will): 20 / 59
     - The Coding Interview Bootcamp: Algorithms + Data Structures: 2,
     - Advanced JavaScript:
     - [10 Design Patterns](https://www.youtube.com/watch?v=tv-_1er1mWI)
