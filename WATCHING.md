@@ -21,7 +21,7 @@
     - React Query: Server State Management in React
 
 4. Nodejs
-    - Hard Parts: Servers & Node.js (Will): 5 / 47
+    - Hard Parts: Servers & Node.js (Will): 12 / 47
     - Understanding Node.js: Core Concepts: 0 / 110
     - API Design in Node.js, v4: 0 / 49
     - Introduction to Node.js, v3 (the first few videos can be good to refresh knowledge): 0 / 28
