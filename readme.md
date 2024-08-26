@@ -39,7 +39,7 @@
   <td><a href="https://github.com/stepanenko/mac-info">Mac</a></td>
   <td><a href="https://github.com/stepanenko/windows-info">Win</a></td>
   <td><a href="https://github.com/stepanenko/git-info">Git</a></td>
-  <td><a href="https://github.com/stepanenko/devops-info">Devops</a></td>
+  <td><a href="https://github.com/stepanenko/devops-info">DevOps</a></td>
   <td><a href="https://github.com/stepanenko/network-info">Network</a></td>
   <td><a href="https://github.com/stepanenko/browser-info">Browser</a></td>
   <td><a href="https://github.com/stepanenko/vscode-info">Editor</a></td>
