@@ -8,6 +8,7 @@
 
 > _First just make it work, then make it work right, then make it work better/faster._
 
+
 <table>
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/quotes.md">Quotes</a></td>
   <td><a href="https://github.com/stepanenko/stepanenko/blob/master/READING.md">Reading</a></td>
