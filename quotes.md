@@ -8,7 +8,7 @@
 
 > First just make it work, then make it work right, then make it work better/faster.
 
-> We spend more time maintaining software than we do creating it from scratch. --Eric Elliott
+> We spend more time maintaining software than we do creating it from scratch. - Eric Elliott
 
 > 80% practice, 20% theory.
 
@@ -18,7 +18,7 @@
 
 > Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.
 
-> Because JavaScript can be used without understanding, the understanding of the language is often never attained. --Kyle Simpson
+> Because JavaScript can be used without understanding, the understanding of the language is often never attained. - Kyle Simpson
 
 > If you define the problem correctly, you almost have the solution.
 
@@ -45,6 +45,8 @@
 > Everything in software architecture is a trade-off.
 
 > The central enemy of reliability is complexity.
+
+> Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter. - Eric Raymond
 
 > Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.
 
@@ -74,11 +76,11 @@
 
 > As you strip constructors and classical inheritance out of JavaScript it: gets simpler, more flexible, more powerful and expressive.
 
-> Keep It Stupid Simple (KISS). Pure functions are stupid simple in the best possible way. --Eric Elliott
+> Keep It Stupid Simple (KISS). Pure functions are stupid simple in the best possible way. - Eric Elliott
 
-> Follow these while developing smth new: 1. Make it work. 2. Make it right. 3. Make it fast. --Kent Beck
+> Follow these while developing smth new: 1. Make it work. 2. Make it right. 3. Make it fast. - Kent Beck
 
-> If a feature is sometimes dangerous, and there is a better option, then always use the better option. --Douglas Crockford
+> If a feature is sometimes dangerous, and there is a better option, then always use the better option. - Douglas Crockford
 
 > Any scientist who couldn’t explain to an eight-year-old what he was doing was a charlatan.
 
@@ -100,71 +102,71 @@
 
 > Programmers are as emotional and irrational as normal people. --Douglas Crockford
 
-> Programming uses head and gut. --Douglas Crockford
+> Programming uses head and gut. - Douglas Crockford
 
-> “That hardly ever happens” is another way of saying “it happens”. --Douglas Crockford
+> “That hardly ever happens” is another way of saying “it happens”. - Douglas Crockford
 
-> It would be nice if products and programming languages were designed to have only good parts. --Douglas Crockford
+> It would be nice if products and programming languages were designed to have only good parts. - Douglas Crockford
 
 > A program is like a poem: you cannot write a poem without writing it. --E. W. DIJKSTRA
 
-> The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures. --KENT BECK
+> The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures. - KENT BECK
 
-> It's a lot easier to talk about code than it is to write code. --JOHN O'NOLAN
+> It's a lot easier to talk about code than it is to write code. - JOHN O'NOLAN
 
-> Don't have good ideas if you aren't willing to be responsible for them. --ALAN J. PERLIS
+> Don't have good ideas if you aren't willing to be responsible for them. - ALAN J. PERLIS
 
-> Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. --ALAN J. PERLIS
+> Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. - ALAN J. PERLIS
 
-> Treat your code like poetry and take it to the edge of the bare minimum. --ILYO
+> Treat your code like poetry and take it to the edge of the bare minimum. - ILYO
 
-> When in doubt, leave it out. --JOSHUA BLOCH
+> When in doubt, leave it out. - JOSHUA BLOCH
 
-> Simple doesn't mean stupid. Thinking that it does, does. --PAUL KRUGMAN
+> Simple doesn't mean stupid. Thinking that it does, does. - PAUL KRUGMAN
 
-> The secret to building large apps is never build large apps. Break your applications into small pieces. Then, assemble those testable, bite-sized pieces into your big application. --JUSTIN MEYER
+> The secret to building large apps is never build large apps. Break your applications into small pieces. Then, assemble those testable, bite-sized pieces into your big application. - JUSTIN MEYER
 
-> The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. --MARIO FUSCO
+> The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. - MARIO FUSCO
 
-> Inside every large program, there is a small program trying to get out. --C. A. R. HOARE
+> Inside every large program, there is a small program trying to get out. - C. A. R. HOARE
 
-> everything simple is made too complicated because it's easy to fiddle with; everything complicated stays complicated because it's hard to fix. --ROB PIKE
+> everything simple is made too complicated because it's easy to fiddle with; everything complicated stays complicated because it's hard to fix. - ROB PIKE
 
-> The trick is to fix the problem you have, rather than the problem you want. --BRAM COHEN
+> The trick is to fix the problem you have, rather than the problem you want. - BRAM COHEN
 
-> The key to making programs fast is to make them do practically nothing. --MIKE HAERTEL
+> The key to making programs fast is to make them do practically nothing. - MIKE HAERTEL
 
-> Constraints are advantages in disguise. Limited resources force you to make do with what you've got. There's no room for waste. And that forces you to be creative. --37SIGNALS
+> Constraints are advantages in disguise. Limited resources force you to make do with what you've got. There's no room for waste. And that forces you to be creative. - 37SIGNALS
 
-> The function of good software is to make the complex appear to be simple. --GRADY BOOCH
+> The function of good software is to make the complex appear to be simple. - GRADY BOOCH
 
-> It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much. --STEVE JOBS
+> It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much. - STEVE JOBS
 
 > A person without data is just another person with an opinion.
 
-> Get out of the way of your developers or lose them to someone who will. --ADRIAN COCKCROFT
+> Get out of the way of your developers or lose them to someone who will. - ADRIAN COCKCROFT
 
-> Most managers may defend the schedule and requirements with passion; but that’s their job. It’s your job to defend the code with equal passion. --ROBERT C. MARTIN
+> Most managers may defend the schedule and requirements with passion; but that's their job. It’s your job to defend the code with equal passion. - ROBERT C. MARTIN
 
-> You cannot manage that which you cannot measure. --JIM BARKSDALE
+> You cannot manage that which you cannot measure. - JIM BARKSDALE
 
-> The first step of any project is to grossly underestimate its complexity and difficulty. --NICOLL HUNT
+> The first step of any project is to grossly underestimate its complexity and difficulty. - NICOLL HUNT
 
-> You won't get anything done by planning. --KARL PILKINGTON
+> You won't get anything done by planning. - KARL PILKINGTON
 
 > Better train people and risk they leave — than do nothing and risk they stay.
 
-> Workaholics aren't heroes. They don't save the day, they just use it up. The real hero is one who figured out a faster way to get things done. --37SIGNALS
+> Workaholics aren't heroes. They don't save the day, they just use it up. The real hero is one who figured out a faster way to get things done. - 37SIGNALS
 
-> Programmers must avoid leaving false clues that obscure the meaning of code. --ROBERT C. MARTIN
+> Programmers must avoid leaving false clues that obscure the meaning of code. - ROBERT C. MARTIN
 
-> Terrible code is not a good excuse to be mean, because terrible code is not well-correlated with having been written by terrible people. --GEEPAW HILL
+> Terrible code is not a good excuse to be mean, because terrible code is not well-correlated with having been written by terrible people. - GEEPAW HILL
 
-> Theory and practice sometimes clash. And when that happens, theory loses. Every single time. --LINUS TORVALDS
+> Theory and practice sometimes clash. And when that happens, theory loses. Every single time. - LINUS TORVALDS
 
-> The most important property of a program is whether it accomplishes the intention of its user. --C. A. R. HOARE
+> The most important property of a program is whether it accomplishes the intention of its user. - C. A. R. HOARE
 
-> Another effective technique is to explain your code to someone else. This will often cause you to explain the bug to yourself. Sometimes it takes no more than a few sentences, followed by an embarrassed “Never mind, I see what's wrong. Sorry to bother you.” This works remarkably well; you can even use non-programmers as listeners. One university computer center kept a teddy bear near the help desk. Students with mysterious bugs were required to explain them to the bear before they could speak to a human counselor. --BRIAN W. KERNIGHAN and ROB PIKE
+> Another effective technique is to explain your code to someone else. This will often cause you to explain the bug to yourself. Sometimes it takes no more than a few sentences, followed by an embarrassed “Never mind, I see what's wrong. Sorry to bother you.” This works remarkably well; you can even use non-programmers as listeners. One university computer center kept a teddy bear near the help desk. Students with mysterious bugs were required to explain them to the bear before they could speak to a human counselor. - BRIAN W. KERNIGHAN and ROB PIKE
 
 > Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it... --DAN ARIELY
 
