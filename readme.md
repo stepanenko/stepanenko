@@ -43,7 +43,7 @@
   <td><a href="https://github.com/stepanenko/devops-info">DevOps</a></td>
   <td><a href="https://github.com/stepanenko/network-info">Network</a></td>
   <td><a href="https://github.com/stepanenko/browser-info">Browser</a></td>
-  <td><a href="https://github.com/stepanenko/vscode-info">Editor</a></td>
+  <td><a href="https://github.com/stepanenko/vscode-info">Editors</a></td>
   <td><a href="https://github.com/stepanenko/tools-info">Tools</a></td>
   <td><a href="https://github.com/stepanenko/computer-science-info">CS</a></td>
 </table>
