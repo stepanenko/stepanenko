@@ -30,6 +30,7 @@
   <td><a href="https://github.com/stepanenko/go-info">Go</a></td>
   <td><a href="https://github.com/stepanenko/c-cpp-info">C</a></td>
   <td><a href="https://github.com/stepanenko/java-info">Java</a></td>
+  <td><a href="https://github.com/stepanenko/video">Video</a></td>
 </table>
 
 <table>
