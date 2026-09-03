@@ -30,7 +30,8 @@
     -  Effective TypeScript - 62 Specific Ways to Improve Your TypeScript
 
 6. C#
-    - [Introduction to .NET web development with ASP.NET Core](https://learn.microsoft.com/en-us/training/modules/introduction-to-aspnet-core/2-what-is-aspnet-core) 2 / 6
+    - [Introduction to .NET web development with ASP.NET Core](https://learn.microsoft.com/en-us/training/modules/introduction-to-aspnet-core/2-what-is-aspnet-core) 6 / 6
+    - [Customize ASP.NET Core behavior with middleware](https://learn.microsoft.com/en-us/training/modules/aspnetcore-middleware/1-introduction) 1 / 6
 ---
 
 [[ More Books... ]](https://github.com/stepanenko/javascript-info#favourite-js-books)
