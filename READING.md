@@ -32,6 +32,8 @@
 6. C#
     - [Introduction to .NET web development with ASP.NET Core](https://learn.microsoft.com/en-us/training/modules/introduction-to-aspnet-core/2-what-is-aspnet-core) 6 / 6
     - [Customize ASP.NET Core behavior with middleware](https://learn.microsoft.com/en-us/training/modules/aspnetcore-middleware/1-introduction) 1 / 6
+    - [Configure services with dependency injection in ASP.NET Core](https://learn.microsoft.com/en-us/training/modules/configure-dependency-injection/) 0 / 7
+    - [Build your first ASP.NET Core web app](https://learn.microsoft.com/en-us/training/modules/build-your-first-aspnet-core-web-app/) 0 / 7
 ---
 
 [[ More Books... ]](https://github.com/stepanenko/javascript-info#favourite-js-books)
