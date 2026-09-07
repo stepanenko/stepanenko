@@ -31,7 +31,7 @@
 
 6. C# - [Notes](https://github.com/stepanenko/c-cpp-info/blob/master/C%23/README.md)
     - [Introduction to .NET web development with ASP.NET Core](https://learn.microsoft.com/en-us/training/modules/introduction-to-aspnet-core/2-what-is-aspnet-core) 6 / 6
-    - [Customize ASP.NET Core behavior with middleware](https://learn.microsoft.com/en-us/training/modules/aspnetcore-middleware/1-introduction) 1 / 6
+    - [Customize ASP.NET Core behavior with middleware](https://learn.microsoft.com/en-us/training/modules/aspnetcore-middleware/1-introduction) 3 / 6
     - [Configure services with dependency injection in ASP.NET Core](https://learn.microsoft.com/en-us/training/modules/configure-dependency-injection/) 0 / 7
     - [Build your first ASP.NET Core web app](https://learn.microsoft.com/en-us/training/modules/build-your-first-aspnet-core-web-app/) 0 / 7
 ---
