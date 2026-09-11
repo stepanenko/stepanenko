@@ -28,7 +28,7 @@
   <td><a href="https://github.com/stepanenko/rust-info">Rust</a></td>
   <td><a href="https://github.com/stepanenko/python-info">Python</a></td>
   <td><a href="https://github.com/stepanenko/go-info">Go</a></td>
-  <td><a href="[https://github.com/stepanenko/cs-cpp-c-info">C#</a></td>
+  <td><a href="https://github.com/stepanenko/cs-cpp-c-info">C#</a></td>
   <td><a href="https://github.com/stepanenko/java-info">Java</a></td>
   <td><a href="https://github.com/stepanenko/video-info">Video</a></td>
 </table>
